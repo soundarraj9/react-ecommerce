@@ -1,0 +1,2520 @@
+{
+  "apple": [
+    {
+      "productId": "apple_1",
+      "productImg": "/mobile brands/apple/iPhone 17 Pro Max.webp",
+      "productName": "iPhone 17 Pro Max",
+      "brand": "Apple",
+      "price": 149900,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The iPhone 17 Pro Max is Apple's premium flagship smartphone designed for professional performance.\nIt features the powerful A19 Pro chip for demanding applications and advanced gaming.\nThe device uses a heat-forged aluminium unibody designed for performance and durability.\nIts vapour chamber helps manage heat during sustained workloads.\nThe phone features a large Super Retina XDR display with ProMotion technology.\nThe display supports refresh rates up to 120Hz for smooth scrolling and gaming.\nIts Pro Fusion camera system includes three 48MP rear cameras.\nThe telephoto camera provides up to 8x optical-quality zoom.\nThe device supports advanced photography features for professional content creators.\nIt can record high-quality Dolby Vision video.\nThe phone includes the 18MP Center Stage front camera.\nApple Intelligence provides useful AI-powered productivity and creative features.\nThe device supports modern 5G and Wi-Fi connectivity.\nIts battery provides excellent video playback performance.\nThe phone supports fast charging through USB-C.\nIt runs iOS 26 with Apple's latest software design and features.\nThe device is suitable for professional photography, gaming, and productivity.\nIts premium construction provides excellent durability.\nThe phone is designed for users who want maximum iPhone performance.\nOverall, the iPhone 17 Pro Max combines flagship performance, professional cameras, advanced AI, and long battery life.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The camera and performance are absolutely incredible.",
+          "date": "2026-05-08T09:41:02.054Z",
+          "reviewerName": "Jace Smith",
+          "reviewerEmail": "jace.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Best iPhone experience I have used.",
+          "date": "2026-05-18T11:20:12.054Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Amazing phone but definitely premium priced.",
+          "date": "2026-05-27T14:10:02.054Z",
+          "reviewerName": "Logan Torres",
+          "reviewerEmail": "logan.torres@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "apple_2",
+      "productImg": "/mobile brands/apple/iPhone 17 Pro.webp",
+      "productName": "iPhone 17 Pro",
+      "brand": "Apple",
+      "price": 134900,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The iPhone 17 Pro is a high-performance flagship smartphone designed for professional users.\nIt features the A19 Pro chip for demanding applications and advanced gaming.\nThe aluminium unibody design is engineered for performance and durability.\nA vapour chamber helps dissipate heat during sustained workloads.\nThe device features a Super Retina XDR display with ProMotion up to 120Hz.\nIts display provides smooth scrolling and an immersive gaming experience.\nThe Pro Fusion camera system includes three 48MP rear cameras.\nThe telephoto camera provides up to 8x optical-quality zoom.\nThe camera system is designed for professional photography and video recording.\nThe device supports advanced portrait and macro photography.\nIt can record Dolby Vision video at up to 4K 120fps.\nThe 18MP Center Stage front camera provides flexible framing for selfies and video calls.\nApple Intelligence provides useful AI-powered features.\nThe device supports modern 5G and Wi-Fi connectivity.\nIt uses USB-C for charging and high-speed data transfer.\nThe phone runs iOS 26 with the latest Apple software experience.\nIt provides excellent performance for gaming and productivity.\nThe device is suitable for photographers, creators, and professionals.\nOverall, the iPhone 17 Pro combines powerful A19 Pro performance, professional cameras, and premium durability.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent performance and professional camera system.",
+          "date": "2026-05-10T10:15:02.054Z",
+          "reviewerName": "Daniel Brown",
+          "reviewerEmail": "daniel.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "The display and cameras are fantastic.",
+          "date": "2026-05-20T12:30:02.054Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "apple_3",
+      "productImg": "/mobile brands/apple/iPhone Air.webp",
+      "productName": "iPhone Air",
+      "brand": "Apple",
+      "price": 119900,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The iPhone Air is Apple's ultra-thin premium smartphone designed for users who prefer a lightweight design.\nIt features an extremely thin and lightweight construction.\nThe device is powered by the A19 Pro chip with a 5-core GPU.\nIts titanium frame provides a premium and durable structure.\nThe phone features a 6.5-inch Super Retina XDR display.\nThe display supports ProMotion technology with refresh rates up to 120Hz.\nIts Always-On display provides convenient access to important information.\nThe device features a 48MP Fusion main camera.\nThe camera provides 2x telephoto functionality for detailed photographs.\nThe 18MP Center Stage front camera provides flexible framing.\nIt supports Dual Capture video for recording front and rear cameras together.\nThe phone includes Camera Control for quick access to camera functions.\nApple Intelligence provides useful AI-powered features.\nThe device supports modern 5G and Wi-Fi connectivity.\nIt runs iOS 26 with the new Liquid Glass interface.\nThe phone provides strong performance despite its thin design.\nIt is suitable for photography, social media, entertainment, and productivity.\nIts lightweight design makes it comfortable to carry.\nThe device provides a premium alternative to traditional iPhone designs.\nOverall, the iPhone Air combines ultra-thin design, Pro-level performance, and modern camera features.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The thin design is absolutely beautiful.",
+          "date": "2026-05-09T10:20:02.054Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very light and comfortable to use.",
+          "date": "2026-05-21T14:40:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great combination of design and performance.",
+          "date": "2026-05-28T12:10:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "apple_4",
+      "productImg": "/mobile brands/apple/iPhone 17.webp",
+      "productName": "iPhone 17",
+      "brand": "Apple",
+      "price": 82900,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The iPhone 17 is a modern smartphone designed for everyday performance and entertainment.\nIt is powered by the A19 chip with a 5-core GPU.\nThe processor provides smooth performance for applications and gaming.\nThe device features a 6.3-inch Super Retina XDR display.\nProMotion provides refresh rates up to 120Hz for smoother scrolling.\nThe display provides high brightness and excellent colour reproduction.\nThe device features a 48MP Dual Fusion camera system.\nIts main camera captures detailed photographs in different lighting conditions.\nThe ultra-wide camera provides flexibility for landscapes and group photography.\nThe phone includes an 18MP Center Stage front camera.\nCenter Stage helps keep users properly framed during selfies and video calls.\nThe device supports 4K 60fps Dolby Vision video recording.\nApple Intelligence provides useful AI-powered features.\nIt includes Camera Control for quick camera access.\nThe phone supports modern 5G and Wi-Fi 7 connectivity.\nIts battery provides all-day usage for regular activities.\nThe device runs iOS 26 with the latest software features.\nIt is suitable for students, professionals, gamers, and content creators.\nOverall, the iPhone 17 provides a strong balance of performance, camera capabilities, display quality, and battery life.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent everyday iPhone with a great display.",
+          "date": "2026-05-06T09:30:02.054Z",
+          "reviewerName": "Noah Taylor",
+          "reviewerEmail": "noah.taylor@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "The camera and 120Hz display are excellent.",
+          "date": "2026-05-17T15:20:02.054Z",
+          "reviewerName": "Olivia Martin",
+          "reviewerEmail": "olivia.martin@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "apple_5",
+      "productImg": "/mobile brands/apple/iPhone 17e.webp",
+      "productName": "iPhone 17e",
+      "brand": "Apple",
+      "price": 64900,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The iPhone 17e is an affordable iPhone designed to provide modern Apple features at a lower price.\nIt provides smooth performance for everyday applications and entertainment.\nThe device is designed for users who want to enter the modern iPhone lineup.\nIt provides a high-quality display experience for browsing and video streaming.\nThe phone features a modern Apple design.\nIts camera system is designed for everyday photography.\nThe device is suitable for portraits, landscapes, and social media photographs.\nApple Intelligence provides useful AI-powered features.\nThe phone provides smooth performance for communication and productivity.\nIt supports modern 5G connectivity.\nThe device runs the latest iOS software experience.\nIts camera is suitable for everyday content creation.\nThe phone provides reliable battery performance for daily activities.\nIt supports modern wireless connectivity.\nThe device is suitable for students and professionals.\nIt provides a clean and user-friendly software experience.\nThe phone supports common productivity applications.\nIt is suitable for casual gaming and entertainment.\nThe device provides access to Apple's ecosystem and services.\nOverall, the iPhone 17e is designed to provide a modern iPhone experience at a more accessible price.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great option for someone buying an iPhone on a budget.",
+          "date": "2026-05-11T08:40:02.054Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Smooth performance and easy-to-use software.",
+          "date": "2026-05-23T13:20:02.054Z",
+          "reviewerName": "Ella Thompson",
+          "reviewerEmail": "ella.thompson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "apple_6",
+      "productImg": "/mobile brands/apple/iPhone 16 Pro Max.png",
+      "productName": "iPhone 16 Pro Max",
+      "brand": "Apple",
+      "price": 144900,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The iPhone 16 Pro Max is a premium flagship smartphone designed for demanding users.\nIt features Apple's A18 Pro chip for powerful performance.\nThe device is suitable for advanced gaming and professional applications.\nIts large Super Retina XDR display provides an immersive viewing experience.\nProMotion technology provides smooth scrolling and responsive interactions.\nThe phone features a professional-grade camera system.\nIts main camera provides high-resolution photography.\nThe telephoto camera provides advanced optical zoom capabilities.\nThe ultra-wide camera is suitable for landscapes and macro photography.\nThe device supports advanced Pro video recording features.\nIt is suitable for professional photographers and content creators.\nThe phone includes Camera Control for convenient camera operation.\nApple Intelligence provides useful AI-powered tools.\nThe device supports modern 5G connectivity.\nIts titanium design provides a premium appearance and durable construction.\nThe phone provides excellent battery performance.\nIt supports USB-C for charging and data transfer.\nThe device runs iOS with Apple's ecosystem integration.\nOverall, the iPhone 16 Pro Max remains a powerful choice for users who want flagship performance and professional cameras.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Amazing camera system and excellent performance.",
+          "date": "2026-05-07T09:10:02.054Z",
+          "reviewerName": "Benjamin Scott",
+          "reviewerEmail": "benjamin.scott@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "The large display is perfect for entertainment.",
+          "date": "2026-05-19T13:40:02.054Z",
+          "reviewerName": "Grace Adams",
+          "reviewerEmail": "grace.adams@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Still an excellent flagship phone.",
+          "date": "2026-05-27T15:10:02.054Z",
+          "reviewerName": "Liam Anderson",
+          "reviewerEmail": "liam.anderson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "apple_7",
+      "productImg": "/mobile brands/apple/iPhone 16 Pro.png",
+      "productName": "iPhone 16 Pro",
+      "brand": "Apple",
+      "price": 119900,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The iPhone 16 Pro is a premium smartphone designed for professional performance and photography.\nIt is powered by Apple's A18 Pro chip.\nThe processor provides strong performance for gaming and demanding applications.\nThe device features a Super Retina XDR display with ProMotion.\nIts display provides smooth scrolling and excellent visual quality.\nThe phone includes a professional camera system.\nThe main camera is designed for detailed high-resolution photographs.\nThe telephoto camera provides useful optical zoom capabilities.\nThe ultra-wide camera is suitable for landscapes and macro photography.\nThe device supports advanced video recording features.\nCamera Control provides convenient access to photography controls.\nApple Intelligence provides AI-powered productivity and creative features.\nThe phone supports modern 5G connectivity.\nIts titanium design provides a premium and durable construction.\nThe device provides reliable battery performance.\nIt runs Apple's iOS software with ecosystem integration.\nThe phone is suitable for professional users and content creators.\nIt provides excellent performance for gaming and productivity.\nOverall, the iPhone 16 Pro offers flagship performance, professional photography, and a premium design.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent performance and professional camera features.",
+          "date": "2026-05-08T10:20:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Premium build and excellent display.",
+          "date": "2026-05-22T14:10:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "apple_8",
+      "productImg": "/mobile brands/apple/iPhone 16 Plus.png",
+      "productName": "iPhone 16 Plus",
+      "brand": "Apple",
+      "price": 79900,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The iPhone 16 Plus is a large-screen smartphone designed for entertainment and everyday productivity.\nIt provides a large Super Retina XDR display for an immersive experience.\nThe device is powered by Apple's A18 chip.\nThe processor provides smooth performance for everyday applications and gaming.\nThe phone features a dual-camera system for versatile photography.\nIts main camera captures detailed everyday photographs.\nThe ultra-wide camera is useful for landscapes and group photography.\nThe device includes Camera Control for quick access to camera features.\nApple Intelligence provides useful AI-powered tools.\nThe phone supports modern 5G connectivity.\nIts large display is suitable for watching movies and playing games.\nThe device provides reliable battery performance.\nIt runs Apple's iOS software with regular ecosystem integration.\nThe phone is suitable for students, professionals, and entertainment users.\nIts design provides a premium and comfortable appearance.\nThe camera system is suitable for social media content.\nThe device provides smooth multitasking performance.\nIt supports USB-C charging and connectivity.\nThe phone is suitable for users who prefer a larger screen.\nOverall, the iPhone 16 Plus combines a large display, strong performance, useful cameras, and dependable battery life.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The large display is perfect for watching movies.",
+          "date": "2026-05-09T11:20:02.054Z",
+          "reviewerName": "Chloe Baker",
+          "reviewerEmail": "chloe.baker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great battery life and smooth performance.",
+          "date": "2026-05-21T15:30:02.054Z",
+          "reviewerName": "Henry Evans",
+          "reviewerEmail": "henry.evans@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "apple_9",
+      "productImg": "/mobile brands/apple/iPhone 16.png",
+      "productName": "iPhone 16",
+      "brand": "Apple",
+      "price": 69900,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The iPhone 16 is a versatile smartphone designed for everyday users.\nIt is powered by Apple's A18 chip for smooth performance.\nThe processor provides reliable performance for applications and gaming.\nThe device features a Super Retina XDR display.\nIts display provides sharp and vivid visuals for entertainment.\nThe phone features a dual-camera system for everyday photography.\nIts main camera captures detailed photographs in different lighting conditions.\nThe ultra-wide camera provides additional flexibility for landscapes.\nThe device includes Camera Control for convenient camera access.\nApple Intelligence provides useful AI-powered features.\nIt supports modern 5G connectivity.\nThe phone provides dependable battery performance for daily usage.\nIt runs iOS with Apple's modern software features.\nThe device is suitable for students and working professionals.\nIts camera is useful for portraits and social media content.\nThe phone supports USB-C connectivity.\nIt provides smooth multitasking performance.\nThe device offers a balanced combination of performance and camera capabilities.\nIt provides access to Apple's ecosystem and services.\nOverall, the iPhone 16 remains a strong premium smartphone for everyday users.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Very smooth performance and excellent camera.",
+          "date": "2026-05-10T09:20:02.054Z",
+          "reviewerName": "Sophia Clark",
+          "reviewerEmail": "sophia.clark@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great everyday iPhone with a premium feel.",
+          "date": "2026-05-24T14:30:02.054Z",
+          "reviewerName": "Olivia Martin",
+          "reviewerEmail": "olivia.martin@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent choice for regular daily use.",
+          "date": "2026-05-28T12:15:02.054Z",
+          "reviewerName": "Noah Taylor",
+          "reviewerEmail": "noah.taylor@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "apple_10",
+      "productImg": "/mobile brands/apple/iPhone 16e.webp",
+      "productName": "iPhone 16e",
+      "brand": "Apple",
+      "price": 59900,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The iPhone 16e is an affordable iPhone designed to provide modern Apple performance.\nIt is powered by Apple's A18 chip.\nThe processor provides smooth performance for everyday applications and gaming.\nThe device provides a high-quality display experience.\nIts design offers the familiar premium iPhone build quality.\nThe phone features a capable Fusion camera system.\nIts camera is suitable for everyday photography.\nThe device can capture portraits, landscapes, and social media content.\nApple Intelligence provides useful AI-powered features.\nThe phone supports modern 5G connectivity.\nIts battery is designed for dependable everyday usage.\nThe device uses USB-C for charging and connectivity.\nIt runs iOS with Apple's latest software features.\nThe phone is suitable for students and professionals.\nIt provides smooth performance for communication and productivity.\nThe device provides access to Apple's ecosystem and services.\nIts camera is suitable for casual content creation.\nThe phone offers a practical balance between performance and affordability.\nIt is suitable for users who want an iPhone without choosing a Pro model.\nOverall, the iPhone 16e provides a modern Apple experience with strong performance and useful features.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great entry-level iPhone with excellent performance.",
+          "date": "2026-05-12T10:30:02.054Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Smooth performance and good camera quality.",
+          "date": "2026-05-26T15:20:02.054Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    }
+  ],
+  "samsung": [
+    {
+      "productId": "samsung_1",
+      "productImg": "/mobile brands/samsung/Samsung Galaxy S26 Ultra.webp",
+      "productName": "Samsung Galaxy S26 Ultra",
+      "brand": "Samsung",
+      "price": 139999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The Samsung Galaxy S26 Ultra is a premium flagship smartphone designed for demanding users.\nIt offers a powerful performance experience for everyday tasks and demanding applications.\nThe device features Samsung's advanced Galaxy AI capabilities.\nIts Privacy Display is designed to help protect sensitive on-screen information from side viewing.\nThe phone is suitable for professional users who frequently work with confidential information.\nIts advanced camera system is designed for detailed photography in different lighting conditions.\nNight video capabilities help users capture clearer footage in low-light environments.\nThe device provides AI-powered photo editing features for improving captured images.\nIts large display provides an immersive experience for movies, gaming, browsing, and productivity.\nThe phone is suitable for multitasking between multiple applications.\nIt provides a premium design and high-end construction.\nThe device supports modern connectivity features for fast communication and online activities.\nGalaxy AI features can assist users with everyday productivity and creative tasks.\nThe phone is suitable for photographers, creators, gamers, and professionals.\nIts large display is useful for reading documents and editing content.\nThe device provides a premium software experience through Samsung's Galaxy ecosystem.\nBattery performance is designed to support extended daily usage.\nThe phone provides powerful hardware for demanding mobile games.\nIt is suitable for users looking for a high-end Android flagship.\nOverall, the Galaxy S26 Ultra is designed as Samsung's top-tier smartphone experience.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent camera and powerful performance.",
+          "date": "2026-05-10T09:41:02.054Z",
+          "reviewerName": "Jace Smith",
+          "reviewerEmail": "jace.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "The display and AI features are impressive.",
+          "date": "2026-05-18T11:20:12.054Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Premium phone with great overall performance.",
+          "date": "2026-05-24T14:10:02.054Z",
+          "reviewerName": "Logan Torres",
+          "reviewerEmail": "logan.torres@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "samsung_2",
+      "productImg": "/mobile brands/samsung/Samsung Galaxy S26+.webp",
+      "productName": "Samsung Galaxy S26+",
+      "brand": "Samsung",
+      "price": 109999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The Samsung Galaxy S26+ is a premium smartphone designed for users who want flagship performance.\nIt provides a large and immersive display for entertainment and productivity.\nThe device is designed to deliver smooth performance during multitasking.\nGalaxy AI features provide useful tools for productivity and creativity.\nThe phone includes advanced camera capabilities for everyday photography.\nIts Nightography features are designed for capturing photos and videos in low-light conditions.\nThe large display is suitable for watching movies and playing games.\nThe device is suitable for professional applications and communication.\nIt provides a premium design that looks modern and sophisticated.\nThe phone supports advanced connectivity for everyday online activities.\nIts camera system can be used for portraits, landscapes, and everyday photography.\nAI-powered features can help users edit and improve their photos.\nThe device is suitable for content consumption and creation.\nIts large screen makes document reading more comfortable.\nThe phone provides smooth performance for demanding applications.\nIt is suitable for users who prefer a large flagship smartphone.\nBattery performance is designed for regular daily use.\nThe device provides a premium Android experience.\nIt integrates with Samsung's wider Galaxy ecosystem.\nOverall, the Galaxy S26+ provides a strong combination of performance, display, camera, and smart features.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Beautiful display and very smooth performance.",
+          "date": "2026-05-08T10:15:02.054Z",
+          "reviewerName": "Daniel Brown",
+          "reviewerEmail": "daniel.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great flagship phone with a large screen.",
+          "date": "2026-05-15T12:30:02.054Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "samsung_3",
+      "productImg": "/mobile brands/samsung/Samsung Galaxy S26.webp",
+      "productName": "Samsung Galaxy S26",
+      "brand": "Samsung",
+      "price": 89999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The Samsung Galaxy S26 is a compact flagship smartphone designed for everyday premium usage.\nIt provides powerful performance in a convenient smartphone form factor.\nThe device features Samsung's modern Galaxy AI experience.\nIts camera system is designed to capture detailed photographs and videos.\nNightography features help users capture content in challenging lighting conditions.\nThe phone is suitable for gaming, social media, browsing, and productivity.\nIts display provides a smooth viewing experience for videos and applications.\nThe device is suitable for users who prefer a smaller flagship smartphone.\nIt provides a premium design with modern styling.\nGalaxy AI features can assist with creative and productivity tasks.\nThe camera is suitable for portraits and everyday photography.\nThe device provides smooth multitasking performance.\nIt is suitable for professional communication and online meetings.\nThe phone supports modern connectivity features.\nIts display is suitable for streaming movies and videos.\nBattery performance is designed to support regular daily activities.\nThe device works well with Samsung's Galaxy ecosystem.\nIt provides a balanced combination of performance and portability.\nThe smartphone is suitable for both personal and professional use.\nOverall, the Galaxy S26 is a premium compact flagship with modern smart features.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Compact design with flagship-level performance.",
+          "date": "2026-05-06T08:30:02.054Z",
+          "reviewerName": "Noah Taylor",
+          "reviewerEmail": "noah.taylor@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Camera quality is excellent.",
+          "date": "2026-05-17T15:20:02.054Z",
+          "reviewerName": "Olivia Martin",
+          "reviewerEmail": "olivia.martin@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "samsung_4",
+      "productImg": "/mobile brands/samsung/Samsung Galaxy Z Fold7.webp",
+      "productName": "Samsung Galaxy Z Fold7",
+      "brand": "Samsung",
+      "price": 174999,
+      "availability": "In Stock",
+      "category": "Foldable",
+      "description": "The Samsung Galaxy Z Fold7 is a premium foldable smartphone designed for productivity and entertainment.\nIt combines a smartphone form factor with a large foldable display.\nThe device is designed to provide a tablet-like experience when unfolded.\nIts large screen is useful for reading documents and browsing websites.\nThe phone is suitable for multitasking with multiple applications.\nIts foldable design makes it useful for professionals and content creators.\nThe device provides powerful performance for demanding applications.\nIts large display creates an immersive experience for movies and gaming.\nThe camera system is designed for photography and video recording.\nThe phone provides a premium and modern foldable design.\nIts large screen is suitable for editing documents and viewing presentations.\nThe device supports Samsung's Galaxy AI features.\nAI tools can assist users with productivity and creative tasks.\nIt is suitable for users who frequently multitask.\nThe phone can be folded into a more compact form for transportation.\nIts premium construction provides a sophisticated appearance.\nThe device integrates with Samsung's Galaxy ecosystem.\nIt provides modern connectivity and communication features.\nBattery performance is designed for regular daily activities.\nOverall, the Galaxy Z Fold7 offers a premium foldable experience focused on productivity and versatility.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The foldable display is perfect for multitasking.",
+          "date": "2026-05-04T09:15:02.054Z",
+          "reviewerName": "Mason Lee",
+          "reviewerEmail": "mason.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent device for work and entertainment.",
+          "date": "2026-05-21T11:45:02.054Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Premium but expensive.",
+          "date": "2026-05-28T13:25:02.054Z",
+          "reviewerName": "Lucas Moore",
+          "reviewerEmail": "lucas.moore@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "samsung_5",
+      "productImg": "/mobile brands/samsung/Samsung Galaxy Z Flip7.webp",
+      "productName": "Samsung Galaxy Z Flip7",
+      "brand": "Samsung",
+      "price": 109999,
+      "availability": "In Stock",
+      "category": "Foldable",
+      "description": "The Samsung Galaxy Z Flip7 is a compact foldable smartphone designed for users who prefer a stylish and portable device.\nIts foldable design allows the phone to become more compact when closed.\nThe device provides a modern smartphone experience with a unique form factor.\nThe FlexWindow provides convenient access to selected information without fully opening the phone.\nThe device provides powerful performance for everyday applications.\nIts camera system is suitable for photography and video recording.\nThe phone is useful for social media and content creation.\nIts compact design makes it convenient to carry.\nThe display provides an immersive viewing experience when the phone is opened.\nThe device supports Samsung Galaxy AI features.\nAI tools can assist with photography and everyday productivity.\nThe phone is suitable for users who prefer stylish smartphone designs.\nIt provides smooth performance for multitasking.\nThe camera can be used for portraits and everyday photography.\nThe foldable design provides flexible ways to interact with the device.\nIt supports modern connectivity features.\nThe phone integrates with Samsung's wider Galaxy ecosystem.\nBattery performance is designed for regular everyday usage.\nIt is suitable for entertainment, communication, and social media.\nOverall, the Galaxy Z Flip7 combines portability, style, and modern smartphone features.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Love the compact foldable design.",
+          "date": "2026-05-07T10:40:02.054Z",
+          "reviewerName": "Sophia Clark",
+          "reviewerEmail": "sophia.clark@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Stylish phone with a very useful outer display.",
+          "date": "2026-05-19T16:10:02.054Z",
+          "reviewerName": "Liam Anderson",
+          "reviewerEmail": "liam.anderson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "samsung_6",
+      "productImg": "/mobile brands/samsung/Samsung Galaxy A57 5G.webp",
+      "productName": "Samsung Galaxy A57 5G",
+      "brand": "Samsung",
+      "price": 41999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The Samsung Galaxy A57 5G is a modern mid-range smartphone designed for everyday users.\nIt provides a balanced combination of performance, display quality, camera features, and battery life.\nThe device supports 5G connectivity for compatible networks.\nIts display is suitable for streaming videos and browsing social media.\nThe phone is designed for smooth everyday multitasking.\nSamsung's Awesome Intelligence features provide useful AI-powered tools.\nEdit Suggestion can help users improve their photos.\nBest Face features can assist with group photography.\nThe camera system is suitable for everyday photography and video recording.\nThe device is useful for students, professionals, and casual users.\nIts modern design provides a premium appearance.\nThe phone is suitable for gaming and entertainment.\nBattery performance is designed to support regular daily usage.\nIt provides reliable performance for communication applications.\nThe device works well for social media and online learning.\nIts camera system is suitable for portraits and outdoor photography.\nThe phone supports Samsung's modern software experience.\nIt provides convenient access to Samsung applications and services.\nThe device offers useful features at a more accessible price.\nOverall, the Galaxy A57 5G is designed as a feature-rich mid-range smartphone.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great mid-range Samsung phone with useful AI features.",
+          "date": "2026-05-09T08:20:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good display and camera for the price.",
+          "date": "2026-05-22T12:40:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "samsung_7",
+      "productImg": "/mobile brands/samsung/Samsung Galaxy A37 5G.webp",
+      "productName": "Samsung Galaxy A37 5G",
+      "brand": "Samsung",
+      "price": 32999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The Samsung Galaxy A37 5G is an affordable 5G smartphone designed for everyday use.\nIt provides a reliable combination of performance and useful smartphone features.\nThe device includes a triple-lens camera system for everyday photography.\nIts display is suitable for streaming and browsing.\nThe phone supports 5G connectivity for compatible networks.\nIt is suitable for social media and communication applications.\nThe device provides smooth performance for everyday multitasking.\nIts camera system can be used for portraits and outdoor photography.\nThe phone is suitable for students and working professionals.\nBattery performance supports regular daily activities.\nThe device provides a modern and stylish design.\nIts display is useful for watching videos and browsing websites.\nThe phone can handle common productivity applications.\nIt is suitable for online learning and video meetings.\nThe camera provides useful features for everyday users.\nThe device offers a balanced smartphone experience.\nSamsung's software provides access to a wide range of applications.\nIt supports modern connectivity features.\nThe phone is positioned as an accessible 5G option.\nOverall, the Galaxy A37 5G provides essential smartphone features with modern connectivity.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Good phone for everyday use and 5G connectivity.",
+          "date": "2026-05-12T09:10:02.054Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good camera and battery performance.",
+          "date": "2026-05-25T14:35:02.054Z",
+          "reviewerName": "Ella Thompson",
+          "reviewerEmail": "ella.thompson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "samsung_8",
+      "productImg": "/mobile brands/samsung/Samsung Galaxy A17 5G.webp",
+      "productName": "Samsung Galaxy A17 5G",
+      "brand": "Samsung",
+      "price": 19999,
+      "availability": "In Stock",
+      "category": "Budget",
+      "description": "The Samsung Galaxy A17 5G is a budget-friendly smartphone with modern connectivity features.\nIt is designed for users who need a reliable device for everyday activities.\nThe phone supports 5G connectivity for compatible networks.\nIt provides useful AI-powered features for everyday tasks.\nThe display is suitable for browsing and video streaming.\nThe device is suitable for social media applications.\nIt provides reliable performance for communication and messaging.\nThe camera system can be used for everyday photographs.\nThe phone is suitable for students and casual smartphone users.\nBattery performance is designed for regular daily use.\nIts modern design provides a clean and attractive appearance.\nThe device is suitable for online learning and browsing.\nIt can handle common productivity applications.\nThe phone supports video calling and online communication.\nIts camera is useful for casual photography.\nThe device provides access to Samsung's software ecosystem.\nIt supports modern wireless connectivity features.\nThe phone is positioned as an affordable 5G smartphone.\nIt is suitable for users looking for essential smartphone features.\nOverall, the Galaxy A17 5G provides a practical combination of connectivity and everyday usability.",
+      "review": [
+        {
+          "rating": 4,
+          "comment": "Good budget phone with 5G support.",
+          "date": "2026-05-13T10:20:02.054Z",
+          "reviewerName": "Benjamin Scott",
+          "reviewerEmail": "benjamin.scott@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Good value for everyday use.",
+          "date": "2026-05-26T15:45:02.054Z",
+          "reviewerName": "Grace Adams",
+          "reviewerEmail": "grace.adams@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "samsung_9",
+      "productImg": "/mobile brands/samsung/Samsung Galaxy S25 FE.webp",
+      "productName": "Samsung Galaxy S25 FE",
+      "brand": "Samsung",
+      "price": 59999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The Samsung Galaxy S25 FE is a premium smartphone designed to provide a flagship-inspired experience.\nIt features a large display suitable for entertainment and productivity.\nThe device provides smooth performance for everyday applications.\nIts camera system is designed for photography and video recording.\nThe phone is suitable for users who want strong camera capabilities.\nIts display provides an immersive experience for movies and gaming.\nThe device supports modern Galaxy AI features.\nAI tools can assist users with photography and everyday productivity.\nIt is suitable for social media and content creation.\nThe camera system can capture detailed images in different environments.\nThe phone provides reliable performance for multitasking.\nIt is suitable for students and professionals.\nBattery performance is designed for regular daily usage.\nThe device provides modern connectivity features.\nIts premium design gives it a sophisticated appearance.\nThe phone integrates with Samsung's wider ecosystem.\nIt provides a smooth software experience.\nThe device is suitable for gaming and entertainment.\nIt offers a balance between premium features and price.\nOverall, the Galaxy S25 FE is a strong choice for users seeking a premium Samsung experience.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great balance between price and flagship features.",
+          "date": "2026-05-05T11:10:02.054Z",
+          "reviewerName": "Henry Evans",
+          "reviewerEmail": "henry.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent display and camera performance.",
+          "date": "2026-05-16T13:25:02.054Z",
+          "reviewerName": "Chloe Baker",
+          "reviewerEmail": "chloe.baker@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very smooth experience for daily use.",
+          "date": "2026-05-27T09:50:02.054Z",
+          "reviewerName": "Jack Turner",
+          "reviewerEmail": "jack.turner@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "samsung_10",
+      "productImg": "/mobile brands/samsung/Samsung Galaxy Z TriFold.webp",
+      "productName": "Samsung Galaxy Z TriFold",
+      "brand": "Samsung",
+      "price": 219999,
+      "availability": "Limited Stock",
+      "category": "Foldable",
+      "description": "The Samsung Galaxy Z TriFold is an innovative foldable smartphone designed around a multi-fold display.\nIt provides an expansive screen experience for productivity and entertainment.\nThe device is designed for users who want a large display in a portable form factor.\nIts foldable design provides multiple ways to use the screen.\nThe large display is useful for multitasking and productivity.\nIt is suitable for viewing documents and presentations.\nThe device is designed for users who consume large amounts of digital content.\nIts screen can provide an immersive experience for movies and gaming.\nThe phone offers a premium and futuristic design.\nIt is suitable for professionals who need more screen space.\nThe device provides powerful performance for demanding applications.\nIts camera system can be used for photography and video recording.\nThe phone integrates with Samsung's Galaxy AI ecosystem.\nAI features can assist with creative and productivity tasks.\nThe device supports modern connectivity technologies.\nIts large display can be useful for content creation.\nThe foldable design provides flexibility between phone and large-screen usage.\nIt is positioned as a premium and innovative smartphone.\nThe device is aimed at users looking for a unique mobile experience.\nOverall, the Galaxy Z TriFold represents Samsung's exploration of large-screen foldable smartphone design.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The large foldable display is amazing.",
+          "date": "2026-05-03T10:40:02.054Z",
+          "reviewerName": "William Harris",
+          "reviewerEmail": "william.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very innovative design, although expensive.",
+          "date": "2026-05-20T16:15:02.054Z",
+          "reviewerName": "Amelia Cooper",
+          "reviewerEmail": "amelia.cooper@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    }
+  ],
+  "redmi": [
+    {
+      "productId": "redmi_1",
+      "productImg": "/mobile brands/redmi/Redmi Note 15 Pro+ 5G.webp",
+      "productName": "Redmi Note 15 Pro+ 5G",
+      "brand": "Redmi",
+      "price": 39999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The Redmi Note 15 Pro+ 5G is a premium mid-range smartphone designed for demanding users.\nIt features a powerful Snapdragon 7s Gen 4 processor for smooth everyday performance.\nThe device includes a 200MP AI main camera with OIS for detailed photography.\nIt supports 4K video recording for high-quality content creation.\nThe large 6.83-inch curved AMOLED display provides an immersive viewing experience.\nThe display supports a 120Hz refresh rate for smooth scrolling and gaming.\nThe device features a massive 6500mAh silicon-carbon battery.\n100W HyperCharge provides fast charging for convenient everyday use.\nThe phone supports reverse charging for powering compatible devices.\nIts REDMI Titan Structure provides strong resistance against dust, water, drops, and everyday damage.\nThe display uses Corning Gorilla Glass Victus 2 for additional protection.\nThe phone supports Dolby Atmos audio for an immersive entertainment experience.\nIts advanced cooling system helps maintain stable performance during demanding tasks.\nThe device is suitable for gaming, photography, streaming, and productivity.\nHyperOS provides a modern software experience with smart connectivity features.\nAI imaging features help improve photographs in different lighting conditions.\nThe large battery is designed for extended daily usage.\nThe phone supports modern connectivity features including 5G.\nIt is suitable for creators, gamers, professionals, and heavy smartphone users.\nOverall, the Redmi Note 15 Pro+ 5G offers flagship-style features at a mid-premium price.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Amazing camera and extremely fast charging.",
+          "date": "2026-05-12T09:41:02.054Z",
+          "reviewerName": "Jace Smith",
+          "reviewerEmail": "jace.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent performance and battery life.",
+          "date": "2026-05-21T11:20:12.054Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great phone for gaming and photography.",
+          "date": "2026-05-28T14:10:02.054Z",
+          "reviewerName": "Logan Torres",
+          "reviewerEmail": "logan.torres@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "redmi_2",
+      "productImg": "/mobile brands/redmi/Redmi Note 15 Pro 5G.webp",
+      "productName": "Redmi Note 15 Pro 5G",
+      "brand": "Redmi",
+      "price": 29999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The Redmi Note 15 Pro 5G is a powerful mid-premium smartphone for everyday and demanding users.\nIt is powered by the MediaTek Dimensity 7400-Ultra processor.\nThe processor is designed to provide smooth multitasking and gaming performance.\nThe device features a 200MP main camera with OIS.\nThe camera system is designed to capture detailed photographs.\nIt supports 4K video recording for high-quality video creation.\nThe phone features a large 6.83-inch AMOLED display.\nThe display supports a 120Hz refresh rate for smooth scrolling.\nIts peak brightness helps improve outdoor visibility.\nThe device features a large 6580mAh silicon-carbon battery.\n45W turbo charging provides convenient charging performance.\nThe phone supports reverse charging for compatible devices.\nIts REDMI Titan Structure provides strong durability.\nThe device offers IP66, IP68, IP69, and IP69K protection ratings.\nCorning Gorilla Glass Victus 2 helps protect the display.\nThe phone is suitable for gaming, photography, entertainment, and productivity.\nIts stereo speakers provide an immersive audio experience.\nHyperOS provides a smooth and modern software experience.\nOverall, the Redmi Note 15 Pro 5G is a durable and feature-rich mid-range smartphone.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The 200MP camera takes excellent photos.",
+          "date": "2026-05-10T10:15:02.054Z",
+          "reviewerName": "Daniel Brown",
+          "reviewerEmail": "daniel.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very good battery and display.",
+          "date": "2026-05-19T12:30:02.054Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "redmi_3",
+      "productImg": "/mobile brands/redmi/Redmi Note 15 5G.webp",
+      "productName": "Redmi Note 15 5G",
+      "brand": "Redmi",
+      "price": 22999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The Redmi Note 15 5G is a modern mid-range smartphone designed for everyday users.\nIt is powered by the Snapdragon 6 Gen 3 mobile platform.\nThe processor provides smooth performance for applications and multitasking.\nThe device features a 108MP high-resolution main camera.\nOptical image stabilization helps improve photo and video stability.\nThe camera supports 4K video recording for detailed videos.\nThe phone features a curved 6.77-inch AMOLED display.\nThe display supports a 120Hz refresh rate for smooth visual performance.\nIts high brightness makes outdoor viewing more comfortable.\nThe device includes a 5520mAh silicon-carbon battery.\n45W turbo charging provides fast and convenient charging.\nThe phone supports 18W reverse charging.\nIt features IP66 dust and water resistance.\nThe device is designed to provide reliable everyday durability.\nDolby Atmos-supported speakers provide an immersive audio experience.\nThe phone is suitable for gaming, streaming, social media, and productivity.\nAI camera features help improve photographs.\nHyperOS provides useful smart and connectivity features.\nThe device supports 5G connectivity for compatible networks.\nOverall, the Redmi Note 15 5G is a balanced smartphone for everyday performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent display and camera for the price.",
+          "date": "2026-05-08T09:20:02.054Z",
+          "reviewerName": "Noah Taylor",
+          "reviewerEmail": "noah.taylor@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good performance and battery life.",
+          "date": "2026-05-17T15:20:02.054Z",
+          "reviewerName": "Olivia Martin",
+          "reviewerEmail": "olivia.martin@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "redmi_4",
+      "productImg": "/mobile brands/redmi/Redmi 15 5G.webp",
+      "productName": "Redmi 15 5G",
+      "brand": "Redmi",
+      "price": 16999,
+      "availability": "In Stock",
+      "category": "Budget",
+      "description": "The Redmi 15 5G is an affordable smartphone designed for users who need long battery life.\nIt is powered by the Snapdragon 6s Gen 3 processor.\nThe processor provides smooth performance for everyday applications.\nThe device features a large 6.9-inch FHD+ display.\nThe display supports up to a 144Hz AdaptiveSync refresh rate.\nThe high refresh rate provides smooth scrolling and gaming.\nThe phone features a large 7000mAh silicon-carbon battery.\n33W fast charging provides convenient charging performance.\nThe device also supports 18W reverse charging.\nIts 50MP AI dual camera is designed for everyday photography.\nAI features such as AI Erase and AI Sky enhance the photography experience.\nThe phone provides IP64 dust and water resistance.\nIts large display is suitable for movies, games, and social media.\nThe device supports up to 16GB RAM with memory extension.\nIt provides modern 5G connectivity for compatible networks.\nThe phone is suitable for students and everyday smartphone users.\nIts Dolby-certified audio provides an enhanced entertainment experience.\nHyperOS provides a smooth software experience.\nThe large battery is designed for extended usage across multiple days.\nOverall, the Redmi 15 5G is a strong battery-focused budget smartphone.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The battery lasts for a very long time.",
+          "date": "2026-05-06T08:40:02.054Z",
+          "reviewerName": "Mason Lee",
+          "reviewerEmail": "mason.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great display and good performance.",
+          "date": "2026-05-16T13:15:02.054Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "redmi_5",
+      "productImg": "/mobile brands/redmi/Redmi 15C 5G.webp",
+      "productName": "Redmi 15C 5G",
+      "brand": "Redmi",
+      "price": 13999,
+      "availability": "In Stock",
+      "category": "Budget",
+      "description": "The Redmi 15C 5G is an affordable 5G smartphone designed for everyday users.\nIt is powered by the MediaTek Dimensity 6300 5G processor.\nThe processor provides efficient performance for daily applications.\nThe device features a large 6.9-inch display.\nThe display supports up to a 120Hz refresh rate.\nThe high refresh rate makes scrolling and browsing smoother.\nThe phone includes a large 6000mAh battery.\n33W fast charging helps reduce charging time.\nThe battery is designed to provide extended everyday usage.\nThe device features a 50MP AI dual camera system.\nThe camera is suitable for portraits, food, landscapes, and everyday photographs.\nAI imaging features can improve selected photographs.\nThe phone provides IP64 dust and water resistance.\nIt includes a side-mounted fingerprint sensor for convenient unlocking.\nThe device supports memory expansion for smoother multitasking.\nIts large display is suitable for entertainment and social media.\nThe phone retains a 3.5mm headphone jack for wired audio.\nIt provides Dolby-certified audio and enhanced volume.\nThe device supports modern 5G connectivity.\nOverall, the Redmi 15C 5G provides a practical combination of battery life, display quality, and connectivity.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent battery life for a budget phone.",
+          "date": "2026-05-09T10:10:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good phone for everyday use.",
+          "date": "2026-05-23T14:40:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "redmi_6",
+      "productImg": "/mobile brands/redmi/Redmi Note 14 Pro+ 5G.webp",
+      "productName": "Redmi Note 14 Pro+ 5G",
+      "brand": "Redmi",
+      "price": 31999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The Redmi Note 14 Pro+ 5G is a premium smartphone designed for photography and performance.\nIt features a high-resolution camera system for detailed photographs.\nThe main camera is designed for photography in different lighting conditions.\nOptical image stabilization helps improve image and video stability.\nThe device provides strong performance for everyday multitasking.\nIts AMOLED display provides vivid colours and deep contrast.\nThe display is suitable for gaming and entertainment.\nThe phone provides a smooth high-refresh-rate viewing experience.\nIts battery is designed to support a full day of regular usage.\nFast charging helps users quickly recharge the device.\nThe phone features a premium curved design.\nIts durable construction provides additional protection for everyday use.\nThe camera system is suitable for portraits and landscape photography.\nThe device provides useful AI photography tools.\nIt supports modern 5G connectivity.\nThe phone is suitable for gaming and content consumption.\nIts speakers provide an immersive entertainment experience.\nHyperOS provides a modern Android-based user experience.\nThe device is suitable for students, professionals, and creators.\nOverall, the Redmi Note 14 Pro+ 5G provides a strong combination of camera, performance, and design.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The camera quality is excellent.",
+          "date": "2026-05-04T09:35:02.054Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Premium design and good performance.",
+          "date": "2026-05-18T15:20:02.054Z",
+          "reviewerName": "Ella Thompson",
+          "reviewerEmail": "ella.thompson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "redmi_7",
+      "productImg": "/mobile brands/redmi/Redmi Note 14 Pro 5G.webp",
+      "productName": "Redmi Note 14 Pro 5G",
+      "brand": "Redmi",
+      "price": 27999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The Redmi Note 14 Pro 5G is a feature-rich smartphone designed for everyday and entertainment use.\nIt provides strong performance for applications and multitasking.\nThe device features a high-resolution camera for detailed photography.\nIts camera system is designed for portraits and everyday photographs.\nOptical stabilization helps reduce unwanted camera movement.\nThe phone features a bright AMOLED display.\nThe display provides vivid colours for movies and games.\nIts high refresh rate makes animations and scrolling smoother.\nThe device provides a comfortable viewing experience for daily use.\nIts battery is designed for extended everyday usage.\nFast charging provides convenient power management.\nThe phone features a premium modern design.\nIts durable construction helps protect against everyday wear.\nThe device supports 5G connectivity.\nIt is suitable for social media, gaming, photography, and streaming.\nAI camera features help users improve photographs.\nHyperOS provides a smooth software experience.\nThe device supports modern connectivity options.\nIt is suitable for users looking for premium features at a reasonable price.\nOverall, the Redmi Note 14 Pro 5G provides a balanced mid-premium smartphone experience.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Very good display and camera.",
+          "date": "2026-05-07T10:45:02.054Z",
+          "reviewerName": "Benjamin Scott",
+          "reviewerEmail": "benjamin.scott@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good all-rounder smartphone.",
+          "date": "2026-05-20T12:10:02.054Z",
+          "reviewerName": "Grace Adams",
+          "reviewerEmail": "grace.adams@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "redmi_8",
+      "productImg": "/mobile brands/redmi/Redmi Note 14 5G.webp",
+      "productName": "Redmi Note 14 5G",
+      "brand": "Redmi",
+      "price": 19999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The Redmi Note 14 5G is a balanced smartphone designed for everyday users.\nIt provides reliable performance for communication and entertainment.\nThe device supports 5G connectivity for compatible networks.\nIts camera system is designed for everyday photography.\nThe phone provides useful AI imaging features.\nIts display offers vivid colours and smooth animations.\nThe device is suitable for watching videos and browsing social media.\nIt provides reliable performance for common applications.\nThe phone is suitable for online learning and productivity.\nIts battery supports regular daily activities.\nFast charging makes it convenient to recharge the device.\nThe device features a modern and comfortable design.\nIt provides useful durability features for everyday use.\nThe phone is suitable for casual gaming.\nIts camera can capture portraits and outdoor photographs.\nThe display provides a comfortable viewing experience.\nThe device runs Xiaomi's modern HyperOS software.\nIt supports modern wireless connectivity.\nThe phone provides a balanced combination of price and features.\nOverall, the Redmi Note 14 5G is a practical mid-range smartphone for everyday users.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Good performance at this price.",
+          "date": "2026-05-11T08:50:02.054Z",
+          "reviewerName": "Henry Evans",
+          "reviewerEmail": "henry.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Nice display and good battery life.",
+          "date": "2026-05-24T13:35:02.054Z",
+          "reviewerName": "Chloe Baker",
+          "reviewerEmail": "chloe.baker@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "redmi_9",
+      "productImg": "/mobile brands/redmi/Redmi 14C 5G.webp",
+      "productName": "Redmi 14C 5G",
+      "brand": "Redmi",
+      "price": 12999,
+      "availability": "In Stock",
+      "category": "Budget",
+      "description": "The Redmi 14C 5G is an affordable smartphone designed for everyday communication and entertainment.\nIt provides reliable performance for common smartphone applications.\nThe device supports 5G connectivity for compatible networks.\nIts large display provides a comfortable experience for browsing.\nThe screen is suitable for watching videos and using social media.\nThe phone includes a capable camera system for everyday photography.\nThe camera can be used for portraits and casual photographs.\nIts battery is designed to support regular daily activities.\nFast charging helps users recharge the device conveniently.\nThe device features a modern design suitable for young users.\nIt is suitable for students and first-time smartphone buyers.\nThe phone can handle messaging and social media applications.\nIt provides reliable performance for online classes and video calls.\nThe display is suitable for entertainment and browsing.\nThe device provides useful connectivity features.\nIts software provides access to commonly used Android applications.\nThe phone is designed to offer good value for its price.\nIt is suitable for users who need essential smartphone features.\nIts battery provides dependable everyday usage.\nOverall, the Redmi 14C 5G is an affordable smartphone focused on essential features and 5G connectivity.",
+      "review": [
+        {
+          "rating": 4,
+          "comment": "Good budget phone with 5G.",
+          "date": "2026-05-13T11:25:02.054Z",
+          "reviewerName": "Jack Turner",
+          "reviewerEmail": "jack.turner@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Good value for students and daily use.",
+          "date": "2026-05-26T16:10:02.054Z",
+          "reviewerName": "Amelia Cooper",
+          "reviewerEmail": "amelia.cooper@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "redmi_10",
+      "productImg": "/mobile brands/redmi/Redmi Note 14S.webp",
+      "productName": "Redmi Note 14S",
+      "brand": "Redmi",
+      "price": 18999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The Redmi Note 14S is a versatile smartphone designed for users who want balanced everyday features.\nIt provides smooth performance for common applications.\nThe device is suitable for social media, communication, and entertainment.\nIts high-quality display provides clear and vivid visuals.\nThe screen is comfortable for watching videos and browsing websites.\nThe camera system is designed for everyday photography.\nIt can capture portraits, landscapes, and casual photographs.\nThe device provides useful photography and editing features.\nIts battery is designed to support regular daily activities.\nFast charging helps reduce waiting time when recharging.\nThe phone features a modern and attractive design.\nIt provides comfortable handling for everyday use.\nThe device is suitable for students and working professionals.\nIt can handle common productivity and communication applications.\nThe phone provides smooth performance during everyday multitasking.\nIt supports modern connectivity features.\nIts software provides a clean and useful smartphone experience.\nThe device is suitable for entertainment and casual gaming.\nIt offers a practical combination of features and affordability.\nOverall, the Redmi Note 14S is a balanced smartphone for everyday users.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Good display and smooth everyday performance.",
+          "date": "2026-05-15T09:30:02.054Z",
+          "reviewerName": "William Harris",
+          "reviewerEmail": "william.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Nice phone for the price.",
+          "date": "2026-05-27T14:20:02.054Z",
+          "reviewerName": "Sophia Clark",
+          "reviewerEmail": "sophia.clark@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    }
+  ],
+  "oneplus": [
+    {
+      "productId": "oneplus_1",
+      "productImg": "/mobile brands/oneplus/OnePlus 15.webp",
+      "productName": "OnePlus 15",
+      "brand": "OnePlus",
+      "price": 79999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The OnePlus 15 is a premium flagship smartphone designed for high-performance users.\nIt provides powerful performance for demanding applications and mobile gaming.\nThe device is designed to deliver a smooth and responsive user experience.\nIts premium display provides an immersive experience for entertainment and productivity.\nThe phone is suitable for users who frequently play graphics-intensive games.\nIts advanced camera system is designed for detailed photography and video recording.\nThe camera provides useful features for portraits, landscapes, and everyday photography.\nThe device is suitable for content creators and social media users.\nIts powerful hardware supports smooth multitasking between applications.\nThe phone provides modern 5G connectivity for fast mobile communication.\nOxygenOS provides a clean and responsive software experience.\nThe device is designed with a premium and modern appearance.\nIts large battery provides dependable power for everyday activities.\nFast charging helps reduce the time required to recharge the phone.\nThe device is suitable for streaming movies and high-quality video content.\nIt provides strong performance for demanding productivity applications.\nThe phone is designed for users looking for a premium Android experience.\nIts hardware and software work together to provide smooth everyday operation.\nThe device is suitable for gaming, photography, communication, and productivity.\nOverall, the OnePlus 15 is positioned as a high-performance flagship smartphone.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent performance and a very smooth experience.",
+          "date": "2026-05-08T09:41:02.054Z",
+          "reviewerName": "Jace Smith",
+          "reviewerEmail": "jace.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Amazing flagship phone with excellent performance.",
+          "date": "2026-05-19T11:20:12.054Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great phone for gaming and everyday use.",
+          "date": "2026-05-27T14:10:02.054Z",
+          "reviewerName": "Logan Torres",
+          "reviewerEmail": "logan.torres@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oneplus_2",
+      "productImg": "/mobile brands/oneplus/OnePlus 15R.webp",
+      "productName": "OnePlus 15R",
+      "brand": "OnePlus",
+      "price": 54999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The OnePlus 15R is a performance-focused smartphone designed for demanding users.\nIt provides strong processing performance for applications and gaming.\nThe device is designed to provide a smooth and responsive user experience.\nIts high-quality display is suitable for movies, gaming, and browsing.\nThe phone is designed for users who want flagship-style performance.\nIts camera system is suitable for everyday photography and video recording.\nThe device can capture detailed photographs in different environments.\nIt is suitable for social media users and content creators.\nThe phone provides smooth multitasking performance.\nIts gaming capabilities make it suitable for graphics-intensive mobile games.\nThe device supports modern 5G connectivity.\nOxygenOS provides a clean and responsive software experience.\nThe phone features a modern premium design.\nIts battery is designed to support extended everyday usage.\nFast charging provides convenient power management.\nThe device is suitable for streaming and entertainment.\nIt provides reliable performance for productivity applications.\nThe phone is suitable for students and professionals.\nIts combination of performance and battery life makes it suitable for heavy users.\nOverall, the OnePlus 15R provides a powerful premium smartphone experience.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Very powerful phone with excellent gaming performance.",
+          "date": "2026-05-11T10:15:02.054Z",
+          "reviewerName": "Daniel Brown",
+          "reviewerEmail": "daniel.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great performance and beautiful display.",
+          "date": "2026-05-22T12:30:02.054Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oneplus_3",
+      "productImg": "/mobile brands/oneplus/OnePlus 13.webp",
+      "productName": "OnePlus 13",
+      "brand": "OnePlus",
+      "price": 69999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The OnePlus 13 is a premium flagship smartphone designed for performance and photography.\nIt provides powerful processing capabilities for demanding applications.\nThe device is suitable for gaming, productivity, entertainment, and communication.\nIts high-quality display provides smooth and detailed visuals.\nThe display is suitable for watching movies and playing high-performance games.\nThe camera system is designed for detailed photography.\nIts main camera is suitable for portraits, landscapes, and everyday photography.\nThe device provides advanced camera features for content creators.\nIt supports high-quality video recording.\nThe phone provides smooth multitasking performance.\nIts cooling system helps maintain stable performance during demanding tasks.\nThe device supports modern 5G connectivity.\nOxygenOS provides a smooth and customizable software experience.\nThe phone features a premium design and durable construction.\nIts battery provides reliable power for everyday activities.\nFast charging helps users quickly recharge the device.\nThe device is suitable for professionals and heavy smartphone users.\nIt provides strong performance for demanding mobile applications.\nThe phone integrates useful AI features into everyday tasks.\nOverall, the OnePlus 13 provides a premium combination of performance, camera, display, and software.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent flagship with fantastic performance.",
+          "date": "2026-05-05T08:30:02.054Z",
+          "reviewerName": "Noah Taylor",
+          "reviewerEmail": "noah.taylor@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "The camera and display are excellent.",
+          "date": "2026-05-18T15:20:02.054Z",
+          "reviewerName": "Olivia Martin",
+          "reviewerEmail": "olivia.martin@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "oneplus_4",
+      "productImg": "/mobile brands/oneplus/OnePlus 13R.webp",
+      "productName": "OnePlus 13R",
+      "brand": "OnePlus",
+      "price": 42999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The OnePlus 13R is a premium performance smartphone designed for users who want flagship-level capabilities.\nIt is powered by the Snapdragon 8 Gen 3 mobile platform.\nThe processor provides strong CPU and GPU performance for demanding applications.\nThe device includes a high-quality 1.5K 120Hz ProXDR display.\nThe high refresh rate provides smooth scrolling and gaming.\nIts 6000mAh battery is designed for extended everyday usage.\n80W SUPERVOOC charging provides fast charging performance.\nThe device includes a 50MP Sony LYT-700 main camera with OIS.\nIts telephoto camera provides additional flexibility for portraits and zoom photography.\nThe ultra-wide camera is useful for landscapes and group photographs.\nThe device supports high-quality video recording.\nIts cooling system helps maintain stable temperatures during demanding usage.\nThe phone supports modern 5G connectivity.\nAqua Touch technology improves touch responsiveness in wet conditions.\nOxygenOS provides a smooth and modern Android experience.\nThe device includes AI-powered features for productivity and photography.\nIt is suitable for gaming and content creation.\nThe premium design gives the phone a sophisticated appearance.\nOverall, the OnePlus 13R offers strong flagship-style performance at a lower price.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Fantastic performance and battery life.",
+          "date": "2026-05-07T10:40:02.054Z",
+          "reviewerName": "Mason Lee",
+          "reviewerEmail": "mason.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent camera and very smooth display.",
+          "date": "2026-05-20T13:15:02.054Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great value for a performance-focused phone.",
+          "date": "2026-05-28T16:20:02.054Z",
+          "reviewerName": "Lucas Moore",
+          "reviewerEmail": "lucas.moore@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oneplus_5",
+      "productImg": "/mobile brands/oneplus/OnePlus 13s.webp",
+      "productName": "OnePlus 13s",
+      "brand": "OnePlus",
+      "price": 54999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The OnePlus 13s is a premium compact smartphone designed for users who prefer a smaller form factor.\nIt provides powerful performance suitable for demanding applications.\nThe device is designed to provide a smooth and responsive user experience.\nIts compact design makes it comfortable to carry and operate.\nThe display provides detailed visuals for entertainment and productivity.\nThe phone is suitable for gaming and everyday applications.\nIts camera system is designed for high-quality everyday photography.\nThe device is suitable for portraits and social media content.\nIt provides smooth performance while multitasking.\nThe phone supports modern 5G connectivity.\nOxygenOS provides a clean and responsive software interface.\nThe device includes useful AI-powered features.\nIts premium construction provides a sophisticated appearance.\nThe battery is designed to provide dependable everyday power.\nFast charging helps users quickly recharge the phone.\nThe device is suitable for students and professionals.\nIts compact design makes it convenient for users who prefer smaller phones.\nThe phone supports high-quality video recording.\nIt provides reliable performance for communication and productivity.\nOverall, the OnePlus 13s combines compact design with powerful smartphone performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Perfect size with powerful performance.",
+          "date": "2026-05-09T09:20:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very smooth phone and excellent design.",
+          "date": "2026-05-21T14:40:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oneplus_6",
+      "productImg": "/mobile brands/oneplus/OnePlus Nord 5.webp",
+      "productName": "OnePlus Nord 5",
+      "brand": "OnePlus",
+      "price": 33999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The OnePlus Nord 5 is a performance-focused smartphone designed for gaming and entertainment.\nIt uses a Snapdragon 8-series processor designed for demanding performance.\nThe device is suitable for high-performance mobile gaming.\nIts 144Hz AMOLED display provides smooth visuals and responsive gameplay.\nThe display supports Ultra HDR for an enhanced viewing experience.\nThe device features a large 6800mAh battery.\n80W charging provides fast and convenient power delivery.\nThe phone includes 50MP front and rear cameras.\nIts cameras are designed for portraits, selfies, and everyday photography.\nThe device supports 4K 60FPS video recording.\nIt includes AI-powered features for photography and productivity.\nThe phone supports Open Canvas for convenient multitasking.\nIts cooling system helps maintain stable performance during gaming.\nThe device supports modern 5G connectivity.\nOxygenOS provides a smooth and customizable software experience.\nThe large battery is suitable for heavy users.\nThe phone is useful for students, gamers, and content creators.\nIts display is suitable for movies and streaming.\nOverall, the OnePlus Nord 5 is designed to provide high performance at a more accessible price.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Amazing gaming performance and battery life.",
+          "date": "2026-05-06T08:45:02.054Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "The 144Hz display feels incredibly smooth.",
+          "date": "2026-05-17T12:10:02.054Z",
+          "reviewerName": "Ella Thompson",
+          "reviewerEmail": "ella.thompson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great phone for gaming and entertainment.",
+          "date": "2026-05-25T15:30:02.054Z",
+          "reviewerName": "Benjamin Scott",
+          "reviewerEmail": "benjamin.scott@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oneplus_7",
+      "productImg": "/mobile brands/oneplus/OnePlus Nord CE5.webp",
+      "productName": "OnePlus Nord CE5",
+      "brand": "OnePlus",
+      "price": 24999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The OnePlus Nord CE5 is a performance-focused smartphone with a large battery.\nIt is powered by the MediaTek Dimensity 8350 Apex processor.\nThe processor provides strong performance for everyday applications and gaming.\nThe device supports up to 12GB LPDDR5X RAM.\nIts 6.77-inch 120Hz AMOLED display provides smooth and vivid visuals.\nThe display supports Ultra HDR and Aqua Touch technology.\nThe phone features a large 7100mAh battery.\n80W SUPERVOOC charging provides fast charging performance.\nThe device includes a 50MP Sony camera with OIS.\nIt supports 4K 60FPS video recording.\nThe ultra-wide camera provides additional flexibility for photography.\nThe phone supports AI features such as AI Writer, AI Perfect Shot, and AI Unblur.\nIts cooling system helps maintain stable performance during demanding gaming.\nThe device supports 5G-Advanced connectivity on compatible networks.\nOxygenOS provides a smooth and modern software experience.\nThe large battery is designed to provide extended usage.\nThe phone is suitable for gaming, streaming, and productivity.\nIts display is useful for entertainment and multitasking.\nOverall, the OnePlus Nord CE5 provides strong performance and battery life at a competitive price.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The battery life is outstanding.",
+          "date": "2026-05-10T10:30:02.054Z",
+          "reviewerName": "Grace Adams",
+          "reviewerEmail": "grace.adams@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent performance for the price.",
+          "date": "2026-05-23T13:20:02.054Z",
+          "reviewerName": "Jack Turner",
+          "reviewerEmail": "jack.turner@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "oneplus_8",
+      "productImg": "/mobile brands/oneplus/OnePlus Nord 4.webp",
+      "productName": "OnePlus Nord 4",
+      "brand": "OnePlus",
+      "price": 29999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The OnePlus Nord 4 is a premium mid-range smartphone designed for everyday performance.\nIt provides smooth performance for applications and multitasking.\nThe device features a high-quality AMOLED display.\nIts high refresh rate provides smooth scrolling and animations.\nThe phone is suitable for gaming and entertainment.\nIts camera system is designed for everyday photography.\nThe device can capture portraits and outdoor photographs.\nIt provides useful video recording capabilities.\nThe phone includes a large battery designed for extended daily use.\nFast charging allows users to quickly recharge the device.\nIts metal-inspired design gives the phone a premium appearance.\nThe device supports modern 5G connectivity.\nOxygenOS provides a clean and customizable software experience.\nThe phone is suitable for students and professionals.\nIts display provides a good experience for movies and streaming.\nThe device provides reliable performance during multitasking.\nIt is suitable for social media and communication.\nThe phone provides a balanced combination of performance and battery life.\nIts modern design makes it attractive to younger users.\nOverall, the OnePlus Nord 4 is a well-balanced premium mid-range smartphone.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Premium design and smooth performance.",
+          "date": "2026-05-04T11:15:02.054Z",
+          "reviewerName": "Chloe Baker",
+          "reviewerEmail": "chloe.baker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good display and battery performance.",
+          "date": "2026-05-16T09:45:02.054Z",
+          "reviewerName": "Henry Evans",
+          "reviewerEmail": "henry.evans@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oneplus_9",
+      "productImg": "/mobile brands/oneplus/OnePlus Nord CE4.webp",
+      "productName": "OnePlus Nord CE4",
+      "brand": "OnePlus",
+      "price": 24999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The OnePlus Nord CE4 is a versatile smartphone designed for everyday users.\nIt provides reliable performance for applications and multitasking.\nThe device features a smooth AMOLED display.\nIts display is suitable for streaming and browsing.\nThe phone provides a capable camera system for everyday photography.\nIt can capture portraits, landscapes, and social media photographs.\nThe device supports high-quality video recording.\nIts battery is designed for extended everyday usage.\nFast charging helps reduce charging time.\nThe phone features a lightweight and modern design.\nIt supports 5G connectivity for compatible networks.\nOxygenOS provides a smooth and user-friendly software experience.\nThe device is suitable for students and professionals.\nIt provides reliable performance for social media and communication.\nThe phone can handle casual gaming and entertainment.\nIts display provides comfortable viewing for long periods.\nThe device supports modern wireless connectivity.\nIt offers a balanced combination of performance and affordability.\nThe phone is suitable for users who want a dependable daily smartphone.\nOverall, the OnePlus Nord CE4 provides a practical and smooth everyday experience.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Good all-rounder with fast charging.",
+          "date": "2026-05-08T12:20:02.054Z",
+          "reviewerName": "William Harris",
+          "reviewerEmail": "william.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Nice display and good everyday performance.",
+          "date": "2026-05-22T15:10:02.054Z",
+          "reviewerName": "Amelia Cooper",
+          "reviewerEmail": "amelia.cooper@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oneplus_10",
+      "productImg": "/mobile brands/oneplus/OnePlus Nord CE4 Lite 5G.webp",
+      "productName": "OnePlus Nord CE4 Lite 5G",
+      "brand": "OnePlus",
+      "price": 19999,
+      "availability": "In Stock",
+      "category": "Budget",
+      "description": "The OnePlus Nord CE4 Lite 5G is an affordable smartphone designed for everyday users.\nIt provides reliable performance for communication and entertainment.\nThe device supports 5G connectivity for compatible networks.\nIts display provides smooth visuals for browsing and video streaming.\nThe phone is suitable for social media applications.\nIts camera system is designed for everyday photography.\nThe device can capture portraits and casual photographs.\nIt provides useful video recording capabilities.\nThe phone includes a large battery designed for dependable daily usage.\nFast charging helps users recharge the device conveniently.\nIts modern design gives it a premium appearance for its price range.\nThe device is suitable for students and first-time smartphone buyers.\nIt provides reliable performance for messaging and video calls.\nThe phone supports common productivity applications.\nIt is suitable for online classes and browsing.\nThe display provides a comfortable experience for entertainment.\nOxygenOS provides a clean and easy-to-use software experience.\nThe device supports modern wireless connectivity.\nIt provides a practical combination of affordability and useful features.\nOverall, the OnePlus Nord CE4 Lite 5G is designed as an accessible 5G smartphone.",
+      "review": [
+        {
+          "rating": 4,
+          "comment": "Good budget phone with useful 5G connectivity.",
+          "date": "2026-05-13T10:40:02.054Z",
+          "reviewerName": "Sophia Clark",
+          "reviewerEmail": "sophia.clark@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very good phone for everyday use.",
+          "date": "2026-05-26T14:25:02.054Z",
+          "reviewerName": "Liam Anderson",
+          "reviewerEmail": "liam.anderson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    }
+  ],
+  "realme": [
+    {
+      "productId": "realme_1",
+      "productImg": "/mobile brands/realme/realme GT 8 Pro.webp",
+      "productName": "realme GT 8 Pro",
+      "brand": "Realme",
+      "price": 79999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The realme GT 8 Pro is a premium flagship smartphone designed for performance-focused users.\nIt is designed to provide powerful performance for demanding applications and gaming.\nThe device features a premium display for immersive entertainment and productivity.\nIts high refresh rate provides smooth scrolling and responsive gaming.\nThe phone is suitable for users who frequently play graphics-intensive games.\nIts advanced camera system is designed for detailed photography.\nThe device features advanced imaging technology developed with RICOH GR collaboration.\nIts camera system is suitable for portraits, landscapes, street photography, and everyday images.\nThe phone provides advanced AI-powered photography features.\nIt is suitable for content creators and social media users.\nThe device provides powerful multitasking performance.\nIts cooling system is designed to maintain stable performance during demanding usage.\nThe phone supports modern 5G connectivity for fast mobile communication.\nIts large battery is designed for extended everyday usage.\nFast charging provides convenient power management.\nThe device runs realme UI with modern smart and AI features.\nIt is suitable for gaming, photography, streaming, and productivity.\nThe premium design provides a sophisticated flagship appearance.\nThe phone is designed for users looking for a high-end Android experience.\nOverall, the realme GT 8 Pro combines flagship performance, advanced photography, AI features, and premium design.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Amazing flagship performance and camera quality.",
+          "date": "2026-05-10T09:41:02.054Z",
+          "reviewerName": "Jace Smith",
+          "reviewerEmail": "jace.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "The camera and display are excellent.",
+          "date": "2026-05-18T11:20:12.054Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great phone for gaming and photography.",
+          "date": "2026-05-26T14:10:02.054Z",
+          "reviewerName": "Logan Torres",
+          "reviewerEmail": "logan.torres@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "realme_2",
+      "productImg": "/mobile brands/realme/realme GT 7.webp",
+      "productName": "realme GT 7",
+      "brand": "Realme",
+      "price": 49999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The realme GT 7 is a high-performance flagship smartphone designed for gaming and everyday productivity.\nIt is powered by the MediaTek Dimensity 9400e flagship chipset.\nThe processor provides strong performance for demanding applications and multitasking.\nThe device features LPDDR5X memory and UFS 4.0 storage technology.\nIts 6000-nit Pro-Esports display provides excellent brightness and clarity.\nThe 8T LTPO display supports smooth adaptive refresh rates.\nThe display provides a responsive 2600Hz touch control experience.\nThe device features a massive 7000mAh Titan Battery.\n120W Ultra Charge provides very fast charging performance.\nThe phone includes a 50MP Sony IMX906 main camera with OIS.\nIts camera system supports advanced AI Travel Snap photography.\nThe device supports 4K Dolby Vision video recording.\nIts cooling system uses IceSense Graphene for improved heat dissipation.\nThe phone includes AI Gaming Coach features for supported games.\nIt supports modern 5G connectivity for fast communication.\nThe device is suitable for gaming, content creation, photography, and entertainment.\nIts premium construction provides IP69-level durability.\nrealme UI provides a modern Android-based software experience.\nOverall, the realme GT 7 combines powerful performance, a large battery, advanced cooling, and premium photography features.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The battery and performance are outstanding.",
+          "date": "2026-05-08T10:15:02.054Z",
+          "reviewerName": "Daniel Brown",
+          "reviewerEmail": "daniel.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent gaming phone with an amazing display.",
+          "date": "2026-05-20T12:30:02.054Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "realme_3",
+      "productImg": "/mobile brands/realme/realme GT 7 Pro.webp",
+      "productName": "realme GT 7 Pro",
+      "brand": "Realme",
+      "price": 59999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The realme GT 7 Pro is a premium performance flagship designed for demanding smartphone users.\nIt features the Snapdragon 8 Elite Mobile Platform for powerful performance.\nThe processor is designed for gaming, multitasking, and demanding applications.\nThe device features a 6.78-inch 1.5K quad-curved display.\nIts display supports a refresh rate of up to 120Hz.\nThe display provides high brightness and vibrant colours.\nThe device features a 5800mAh battery for extended everyday usage.\n120W SUPERVOOC charging provides fast charging performance.\nIts camera system includes a 50MP Sony IMX906 main camera with OIS.\nThe device also includes a 50MP periscope portrait camera with OIS.\nThe ultra-wide camera is useful for landscapes and group photography.\nThe phone supports advanced AI Zoom Ultra Clarity features.\nIt is suitable for professional photography and content creation.\nThe device includes advanced cooling for stable performance during gaming.\nIt supports modern 5G connectivity.\nThe phone provides a premium design and flagship-level construction.\nrealme UI provides a smooth and customizable software experience.\nIt is suitable for gamers, photographers, creators, and professionals.\nOverall, the realme GT 7 Pro offers flagship performance, advanced cameras, fast charging, and a premium display.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Fantastic performance and very fast charging.",
+          "date": "2026-05-06T09:30:02.054Z",
+          "reviewerName": "Noah Taylor",
+          "reviewerEmail": "noah.taylor@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "The camera system is excellent.",
+          "date": "2026-05-17T15:20:02.054Z",
+          "reviewerName": "Olivia Martin",
+          "reviewerEmail": "olivia.martin@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great flagship but quite expensive.",
+          "date": "2026-05-24T13:15:02.054Z",
+          "reviewerName": "Mason Lee",
+          "reviewerEmail": "mason.lee@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "realme_4",
+      "productImg": "/mobile brands/realme/realme 15 Pro 5G.webp",
+      "productName": "realme 15 Pro 5G",
+      "brand": "Realme",
+      "price": 39999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The realme 15 Pro 5G is a premium smartphone designed for performance and photography.\nIt provides powerful performance for everyday applications and gaming.\nThe device is designed for users who want a premium smartphone experience.\nIts display provides smooth visuals for entertainment and productivity.\nThe phone is suitable for social media, gaming, and video streaming.\nIts camera system is designed for high-quality photography.\nThe device provides useful AI-powered photography features.\nIt is suitable for portraits, landscapes, and everyday photographs.\nThe phone supports high-quality video recording.\nIts battery is designed for extended everyday usage.\nFast charging provides convenient power management.\nThe device supports modern 5G connectivity.\nIts premium design provides a stylish and modern appearance.\nThe phone provides smooth multitasking performance.\nIt is suitable for content creators and social media users.\nThe device includes useful AI tools for productivity.\nIts cooling system helps maintain stable performance during demanding tasks.\nThe phone is suitable for gaming and entertainment.\nIt provides a balanced combination of performance and battery life.\nOverall, the realme 15 Pro 5G provides a premium smartphone experience for users who want strong performance and photography features.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Beautiful display and excellent performance.",
+          "date": "2026-05-09T10:20:02.054Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great phone for photography and gaming.",
+          "date": "2026-05-21T14:40:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "realme_5",
+      "productImg": "/mobile brands/realme/realme 15 5G.webp",
+      "productName": "realme 15 5G",
+      "brand": "Realme",
+      "price": 27999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The realme 15 5G is a modern smartphone designed for users who want strong everyday performance.\nIt provides smooth performance for applications and multitasking.\nThe device supports 5G connectivity for fast mobile communication.\nIts display provides a smooth experience for gaming and entertainment.\nThe phone is suitable for watching videos and browsing social media.\nIts camera system is designed for everyday photography.\nThe device supports useful AI camera features.\nIt is suitable for portraits, outdoor photography, and social media content.\nThe phone provides smooth performance for productivity applications.\nIts battery is designed to support regular daily activities.\nFast charging helps users recharge the phone conveniently.\nThe device features a modern and stylish design.\nIt is suitable for students and professionals.\nThe phone supports casual and competitive mobile gaming.\nIts display provides comfortable viewing for movies and streaming.\nThe device provides modern wireless connectivity features.\nIts software provides useful smart and AI functions.\nThe phone is suitable for content consumption and creation.\nIt provides a good balance between performance and affordability.\nOverall, the realme 15 5G is a versatile mid-range smartphone for everyday users.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Very smooth performance and good battery life.",
+          "date": "2026-05-11T08:40:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good display and camera for this price.",
+          "date": "2026-05-22T13:20:02.054Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "realme_6",
+      "productImg": "/mobile brands/realme/realme P4 Pro 5G.webp",
+      "productName": "realme P4 Pro 5G",
+      "brand": "Realme",
+      "price": 29999,
+      "availability": "In Stock",
+      "category": "Performance",
+      "description": "The realme P4 Pro 5G is a performance-oriented smartphone designed for gaming and entertainment.\nIt provides strong processing performance for demanding applications.\nThe device supports 5G connectivity for fast communication and online gaming.\nIts display is designed to provide smooth visuals and responsive touch controls.\nThe phone is suitable for users who enjoy competitive mobile gaming.\nIts cooling system helps manage heat during extended gaming sessions.\nThe device provides a capable camera system for everyday photography.\nThe camera is suitable for portraits and social media content.\nThe phone supports modern AI photography features.\nIts battery is designed to provide extended everyday usage.\nFast charging helps reduce charging time.\nThe device features a modern gaming-inspired design.\nIt is suitable for students, gamers, and young professionals.\nThe display is suitable for watching movies and streaming content.\nThe phone provides smooth multitasking performance.\nIts software provides useful gaming and productivity features.\nThe device supports modern wireless connectivity.\nIt offers a good balance of performance and affordability.\nThe phone is suitable for users looking for a gaming-focused smartphone.\nOverall, the realme P4 Pro 5G is designed to provide strong gaming and everyday performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent gaming performance for the price.",
+          "date": "2026-05-07T09:10:02.054Z",
+          "reviewerName": "Liam Anderson",
+          "reviewerEmail": "liam.anderson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good display and smooth gaming experience.",
+          "date": "2026-05-19T15:35:02.054Z",
+          "reviewerName": "Sophia Clark",
+          "reviewerEmail": "sophia.clark@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "realme_7",
+      "productImg": "/mobile brands/realme/realme P3 Ultra 5G.webp",
+      "productName": "realme P3 Ultra 5G",
+      "brand": "Realme",
+      "price": 26999,
+      "availability": "In Stock",
+      "category": "Performance",
+      "description": "The realme P3 Ultra 5G is a performance-focused smartphone designed for gaming and everyday productivity.\nIt provides strong processing performance for demanding applications.\nThe device supports modern 5G connectivity.\nIts display provides smooth visuals for gaming and entertainment.\nThe phone is designed to deliver responsive gaming performance.\nIts cooling system helps reduce heat during demanding gaming sessions.\nThe camera system provides useful photography features.\nIt is suitable for portraits, landscapes, and everyday photographs.\nThe device includes AI-powered photography and productivity tools.\nIts battery is designed for extended daily usage.\nFast charging provides convenient power management.\nThe phone features a stylish and modern design.\nIt is suitable for students, gamers, and professionals.\nThe device supports smooth multitasking between applications.\nIts display is suitable for movies and streaming.\nThe software provides useful smart features.\nThe phone supports modern wireless connectivity.\nIt provides reliable performance for social media and communication.\nThe device offers a good combination of performance and battery life.\nOverall, the realme P3 Ultra 5G provides a balanced gaming and everyday smartphone experience.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great gaming performance and battery life.",
+          "date": "2026-05-05T10:15:02.054Z",
+          "reviewerName": "Henry Evans",
+          "reviewerEmail": "henry.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good performance and attractive design.",
+          "date": "2026-05-18T12:45:02.054Z",
+          "reviewerName": "Chloe Baker",
+          "reviewerEmail": "chloe.baker@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very smooth phone for everyday use.",
+          "date": "2026-05-27T14:25:02.054Z",
+          "reviewerName": "Jack Turner",
+          "reviewerEmail": "jack.turner@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "realme_8",
+      "productImg": "/mobile brands/realme/realme P3 Pro 5G.webp",
+      "productName": "realme P3 Pro 5G",
+      "brand": "Realme",
+      "price": 24999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The realme P3 Pro 5G is a performance-focused smartphone designed for gaming and entertainment.\nIt features the Snapdragon 7s Gen 3 5G chipset.\nThe processor provides efficient performance for multitasking and gaming.\nThe device features a 6.83-inch quad-curved EdgeFlow display.\nThe display supports a 120Hz refresh rate.\nIts display provides smooth and immersive visuals.\nThe phone includes a 6000mAh Titan Battery.\n80W Ultra Charge provides fast charging performance.\nThe device includes a Sony IMX896 50MP OIS main camera.\nIts camera system is suitable for portraits and low-light photography.\nThe phone supports 4K video recording.\nThe device includes an AeroSpace VC cooling system.\nThe cooling system helps maintain performance during gaming.\nThe phone supports IP69 water resistance.\nIt is suitable for gamers and entertainment-focused users.\nThe device provides modern 5G connectivity.\nIts design uses a distinctive Nebula-inspired appearance.\nThe phone provides useful AI photography features.\nOverall, the realme P3 Pro 5G provides strong gaming performance, a large battery, fast charging, and a premium curved display.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent gaming phone with a great display.",
+          "date": "2026-05-12T09:30:02.054Z",
+          "reviewerName": "Amelia Cooper",
+          "reviewerEmail": "amelia.cooper@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Battery life and charging speed are excellent.",
+          "date": "2026-05-23T13:15:02.054Z",
+          "reviewerName": "William Harris",
+          "reviewerEmail": "william.harris@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "realme_9",
+      "productImg": "/mobile brands/realme/realme 14 Pro 5G.webp",
+      "productName": "realme 14 Pro 5G",
+      "brand": "Realme",
+      "price": 27999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The realme 14 Pro 5G is a stylish smartphone designed for photography, gaming, and everyday use.\nIt is powered by the Dimensity 7300 Energy 5G chipset.\nThe processor provides smooth and efficient performance.\nThe device features a 120Hz curved vision display.\nIts display provides smooth visuals and comfortable viewing.\nThe phone includes a 6000mAh Titan Battery.\n45W SUPERVOOC charging provides convenient fast charging.\nThe device features a 50MP Sony IMX882 OIS main camera.\nIts MagicGlow Triple Flash is designed for improved portrait photography.\nThe camera supports 4K video recording.\nThe phone includes a 16MP front camera for selfies.\nIt supports modern AI photography features.\nThe device features IP69, IP68, and IP66 resistance ratings.\nIts rugged construction provides additional protection against water and dust.\nThe phone is suitable for gaming with support for high-frame-rate gaming.\nIts cooling system helps maintain stable performance.\nThe device supports modern 5G connectivity.\nIts Pearl Design provides a unique appearance.\nOverall, the realme 14 Pro 5G provides a strong combination of camera capabilities, durability, battery life, and gaming performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Beautiful design and excellent camera.",
+          "date": "2026-05-06T11:20:02.054Z",
+          "reviewerName": "Grace Adams",
+          "reviewerEmail": "grace.adams@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great battery life and smooth display.",
+          "date": "2026-05-20T14:30:02.054Z",
+          "reviewerName": "Benjamin Scott",
+          "reviewerEmail": "benjamin.scott@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very impressive durability and camera quality.",
+          "date": "2026-05-28T10:40:02.054Z",
+          "reviewerName": "Ella Thompson",
+          "reviewerEmail": "ella.thompson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "realme_10",
+      "productImg": "/mobile brands/realme/realme P3 5G.webp",
+      "productName": "realme P3 5G",
+      "brand": "Realme",
+      "price": 16999,
+      "availability": "In Stock",
+      "category": "Budget",
+      "description": "The realme P3 5G is a performance-focused affordable smartphone designed for everyday users and gamers.\nIt features the Snapdragon 6 Gen 4 5G chipset.\nThe processor provides smooth performance for everyday applications.\nThe device features a 120Hz AMOLED esports display.\nIts display provides smooth visuals for gaming and entertainment.\nThe phone includes a 6000mAh Titan Battery.\n45W fast charging provides convenient charging performance.\nThe device includes a 50MP AI camera for everyday photography.\nAI camera features help users improve portraits and photographs.\nThe phone includes an Aerospace cooling system for better heat management.\nIt supports high-frame-rate gaming for compatible games.\nThe device features IP69 water resistance.\nIts battery is designed to support extended everyday usage.\nThe phone is suitable for students and young users.\nIt provides smooth performance for social media and communication.\nThe device supports modern 5G connectivity.\nIts design provides a futuristic gaming-inspired appearance.\nThe phone includes useful AI productivity features.\nOverall, the realme P3 5G provides a strong combination of gaming performance, battery life, durability, and affordability.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent gaming performance for a budget phone.",
+          "date": "2026-05-09T08:50:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great battery and smooth AMOLED display.",
+          "date": "2026-05-22T16:20:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    }
+  ],
+  "vivo": [
+    {
+      "productId": "vivo_1",
+      "productImg": "/mobile brands/vivo/vivo X300 Ultra.webp",
+      "productName": "vivo X300 Ultra",
+      "brand": "Vivo",
+      "price": 159999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The vivo X300 Ultra is a premium flagship smartphone designed especially for photography enthusiasts.\nIt features a powerful Snapdragon 8 Elite Gen 5 mobile platform.\nThe device includes a dedicated Pro Imaging Chip for advanced photography processing.\nIts camera system is developed in collaboration with ZEISS.\nThe phone features ZEISS Triple Prime Lenses for professional-style photography.\nIts 200MP ZEISS Gimbal-Grade APO Telephoto Camera provides highly detailed zoom photography.\nThe device supports advanced multi-focal photography capabilities.\nIt can record high-quality 4K 120fps Dolby Vision video.\nThe camera system supports 60fps autofocus tracking snapshots.\nThe large display provides an immersive experience for movies, gaming, and editing photographs.\nThe phone is suitable for professional photographers and content creators.\nIts powerful processor provides smooth performance for demanding applications.\nThe device supports modern 5G connectivity.\nIts premium construction provides a sophisticated flagship appearance.\nThe phone provides advanced AI imaging features.\nIt is suitable for professional video recording and photography.\nThe device provides smooth multitasking performance.\nIts large storage capacity is suitable for storing photographs and videos.\nThe phone integrates advanced camera hardware with vivo's modern software experience.\nOverall, the vivo X300 Ultra is designed as a flagship photography-focused smartphone.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The camera system is absolutely amazing.",
+          "date": "2026-05-08T09:41:02.054Z",
+          "reviewerName": "Jace Smith",
+          "reviewerEmail": "jace.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent phone for photography and video.",
+          "date": "2026-05-18T11:20:12.054Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Premium performance with incredible cameras.",
+          "date": "2026-05-27T14:10:02.054Z",
+          "reviewerName": "Logan Torres",
+          "reviewerEmail": "logan.torres@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "vivo_2",
+      "productImg": "/mobile brands/vivo/vivo X300 FE.webp",
+      "productName": "vivo X300 FE",
+      "brand": "Vivo",
+      "price": 86999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The vivo X300 FE is a premium compact flagship smartphone designed for performance and photography.\nIt is powered by the Snapdragon 8 Gen 5 mobile platform.\nThe device provides powerful performance for demanding applications and gaming.\nIts compact 6.31-inch display provides a comfortable one-handed experience.\nThe display is suitable for entertainment, browsing, and productivity.\nThe device features a 50MP ZEISS Telephoto Camera for detailed portrait photography.\nIts ZEISS camera system provides advanced imaging capabilities.\nThe phone is designed for users who enjoy portrait and travel photography.\nAI-powered camera features help improve photographs.\nThe device provides smooth multitasking performance.\nIt supports modern 5G connectivity.\nIts premium construction provides a sophisticated appearance.\nThe compact design makes the phone comfortable to carry.\nThe device is suitable for social media and content creation.\nIts display provides clear and vivid visuals.\nThe phone is suitable for gaming and streaming.\nIt provides a modern software experience with smart features.\nThe device provides reliable performance for professional applications.\nIts camera system is suitable for both daytime and low-light photography.\nOverall, the vivo X300 FE combines compact design, flagship performance, and advanced ZEISS photography.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Compact design with excellent camera quality.",
+          "date": "2026-05-10T10:15:02.054Z",
+          "reviewerName": "Daniel Brown",
+          "reviewerEmail": "daniel.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very smooth performance and beautiful display.",
+          "date": "2026-05-20T12:30:02.054Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "vivo_3",
+      "productImg": "/mobile brands/vivo/vivo X300 Pro.webp",
+      "productName": "vivo X300 Pro",
+      "brand": "Vivo",
+      "price": 119999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The vivo X300 Pro is a premium flagship smartphone focused on photography and performance.\nIt features a powerful flagship-grade processor for demanding applications.\nThe device provides smooth performance for gaming and multitasking.\nIts advanced camera system is co-engineered with ZEISS.\nThe phone provides a high-quality telephoto camera for detailed zoom photography.\nIts camera system is suitable for portraits, landscapes, and professional content.\nThe device supports advanced AI imaging features.\nIt can capture detailed photographs in different lighting conditions.\nThe phone supports high-quality video recording for content creators.\nIts display provides an immersive viewing experience.\nThe device is suitable for gaming, streaming, photography, and productivity.\nIt supports modern 5G connectivity.\nIts premium design provides a sophisticated appearance.\nThe phone provides smooth multitasking performance.\nIts large storage capacity is useful for storing photographs and videos.\nThe device provides fast and reliable performance.\nThe camera system is suitable for professional-style portrait photography.\nIt provides advanced software features for image processing.\nThe phone is suitable for photographers and creators.\nOverall, the vivo X300 Pro provides a premium combination of flagship performance and ZEISS imaging.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent camera and flagship performance.",
+          "date": "2026-05-07T09:30:02.054Z",
+          "reviewerName": "Noah Taylor",
+          "reviewerEmail": "noah.taylor@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Perfect phone for photography lovers.",
+          "date": "2026-05-17T15:20:02.054Z",
+          "reviewerName": "Olivia Martin",
+          "reviewerEmail": "olivia.martin@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Premium experience with excellent imaging.",
+          "date": "2026-05-24T13:15:02.054Z",
+          "reviewerName": "Mason Lee",
+          "reviewerEmail": "mason.lee@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "vivo_4",
+      "productImg": "/mobile brands/vivo/vivo V70.webp",
+      "productName": "vivo V70",
+      "brand": "Vivo",
+      "price": 59999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The vivo V70 is a premium smartphone designed around portrait photography and everyday performance.\nIt features a 50MP ZEISS Night Telephoto Camera.\nThe telephoto camera supports 3x optical zoom for detailed portraits.\nThe device also provides up to 100x zoom capabilities.\nIts 50MP ZEISS OIS main camera provides stable photography.\nThe phone includes a 50MP ZEISS group selfie camera.\nThe ultra-wide front camera is suitable for group selfies.\nThe device supports 4K 60fps video recording.\nAI imaging features help improve photographs and portraits.\nThe phone features a 1.5K Ultra Clear OLED display.\nIts display supports a 120Hz refresh rate for smooth visuals.\nThe device is powered by the Snapdragon 7 Gen 4 processor.\nLPDDR5X memory and UFS 4.1 storage provide smooth application performance.\nThe phone features a 6500mAh battery.\n90W FlashCharge provides fast charging performance.\nIts cooling system helps maintain performance during gaming.\nThe device supports modern 5G connectivity.\nOriginOS provides a smooth and modern software experience.\nThe phone receives up to six years of security updates.\nOverall, the vivo V70 provides a strong combination of ZEISS photography, display quality, performance, and battery life.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The portrait camera is fantastic.",
+          "date": "2026-05-09T10:20:02.054Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Beautiful display and excellent battery life.",
+          "date": "2026-05-21T14:40:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great premium phone for photography.",
+          "date": "2026-05-28T12:10:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "vivo_5",
+      "productImg": "/mobile brands/vivo/vivo V70 Elite.webp",
+      "productName": "vivo V70 Elite",
+      "brand": "Vivo",
+      "price": 66999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The vivo V70 Elite is a premium smartphone focused on portrait photography and performance.\nIt features a 50MP ZEISS Night Telephoto Camera.\nThe telephoto camera is designed for detailed portrait photography.\nThe device supports 4K 60fps video recording with Zoom Clarity.\nIts camera system provides useful features for travel and portrait photography.\nThe phone is powered by the Snapdragon 8s Gen 3 processor.\nThe processor provides strong performance for gaming and multitasking.\nIts compact design includes a premium metal frame.\nThe device provides a high-quality display for entertainment and productivity.\nAI Magic Weather provides useful AI-powered information features.\nThe phone supports modern 5G connectivity.\nIts camera system is suitable for content creators.\nThe device provides smooth performance for demanding applications.\nIt is suitable for gaming and video streaming.\nThe phone provides a premium and comfortable design.\nIts software experience provides useful AI and productivity features.\nThe device supports fast and reliable connectivity.\nIts camera is suitable for portraits, landscapes, and everyday photography.\nThe phone provides a balanced premium experience.\nOverall, the vivo V70 Elite combines powerful performance, ZEISS photography, and a compact premium design.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent portrait camera and premium design.",
+          "date": "2026-05-06T11:15:02.054Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very good performance and camera quality.",
+          "date": "2026-05-19T13:30:02.054Z",
+          "reviewerName": "Ella Thompson",
+          "reviewerEmail": "ella.thompson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "vivo_6",
+      "productImg": "/mobile brands/vivo/vivo V70 FE.webp",
+      "productName": "vivo V70 FE",
+      "brand": "Vivo",
+      "price": 49999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The vivo V70 FE is a premium smartphone designed for users who enjoy photography and entertainment.\nIt features a 200MP OIS Ultra Clear Main Camera.\nThe high-resolution camera is designed to capture detailed photographs.\nOptical image stabilization helps reduce camera shake.\nThe device features a 1.5K Ultra Clear OLED display.\nIts display provides sharp and vivid visuals for entertainment.\nThe phone features a large 7000mAh battery.\n90W FlashCharge provides fast charging performance.\nThe device supports Super Motion Snapshot for capturing moving subjects.\nAI imaging features help improve photographs.\nThe phone is suitable for social media and content creation.\nIt provides smooth performance for everyday applications.\nThe device supports modern 5G connectivity.\nIts large battery is suitable for heavy daily usage.\nThe display is suitable for movies, gaming, and browsing.\nThe phone provides a modern and attractive design.\nIt is suitable for students, professionals, and content creators.\nThe camera system can be used for portraits and landscape photography.\nThe device provides reliable performance throughout the day.\nOverall, the vivo V70 FE combines a high-resolution camera, large battery, fast charging, and a premium display.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The 200MP camera takes very detailed photos.",
+          "date": "2026-05-11T09:20:02.054Z",
+          "reviewerName": "Benjamin Scott",
+          "reviewerEmail": "benjamin.scott@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent battery life and beautiful OLED display.",
+          "date": "2026-05-23T14:10:02.054Z",
+          "reviewerName": "Grace Adams",
+          "reviewerEmail": "grace.adams@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "vivo_7",
+      "productImg": "/mobile brands/vivo/vivo T5 Pro 5G.webp",
+      "productName": "vivo T5 Pro 5G",
+      "brand": "Vivo",
+      "price": 35999,
+      "availability": "In Stock",
+      "category": "Performance",
+      "description": "The vivo T5 Pro 5G is a performance-focused smartphone designed for gaming and entertainment.\nIt is powered by the Snapdragon 7s Gen 4 processor.\nThe processor provides smooth performance for demanding applications.\nThe device features a large 9020mAh battery.\nIts massive battery is designed for extended gaming and entertainment.\nThe phone supports up to 120FPS gaming for compatible games.\nIts 7000-level VC cooling system helps manage heat during gaming.\nThe device features a 1.5K AMOLED display.\nThe display supports a 144Hz refresh rate for smooth gaming.\nIts display provides vivid colours for movies and streaming.\nThe phone supports modern 5G connectivity.\nIt provides a capable camera system for everyday photography.\nThe device is suitable for gamers and heavy smartphone users.\nIts large battery reduces the need for frequent charging.\nThe phone provides smooth multitasking performance.\nThe cooling system helps maintain stable performance during extended gaming.\nIts modern design gives it a performance-oriented appearance.\nThe device is suitable for gaming, streaming, social media, and productivity.\nOverall, the vivo T5 Pro 5G is designed around high battery capacity and gaming performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Amazing battery life and gaming performance.",
+          "date": "2026-05-05T10:40:02.054Z",
+          "reviewerName": "Henry Evans",
+          "reviewerEmail": "henry.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "The 144Hz AMOLED display is excellent.",
+          "date": "2026-05-18T15:20:02.054Z",
+          "reviewerName": "Chloe Baker",
+          "reviewerEmail": "chloe.baker@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Perfect choice for heavy gaming users.",
+          "date": "2026-05-27T12:45:02.054Z",
+          "reviewerName": "Jack Turner",
+          "reviewerEmail": "jack.turner@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "vivo_8",
+      "productImg": "/mobile brands/vivo/vivo T5x 5G.webp",
+      "productName": "vivo T5x 5G",
+      "brand": "Vivo",
+      "price": 24999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The vivo T5x 5G is a battery-focused smartphone designed for everyday users and entertainment.\nIt features a large 7200mAh high-density battery.\nThe large battery is suitable for extended daily usage.\nThe device is powered by the MediaTek Dimensity 7400 Turbo processor.\nThe processor provides smooth performance for multitasking and gaming.\nThe phone features IP68 and IP69+ protection.\nIts durable construction provides resistance against water and dust.\nThe device supports 4K video recording from both front and rear cameras.\nUFS 3.1 storage provides faster application and file access.\nThe phone provides military-grade durability features.\nIts display provides up to 1200 nits HBM peak brightness.\nThe device supports modern 5G connectivity.\nIt is suitable for students and professionals.\nThe phone provides reliable performance for social media and communication.\nIts camera system is suitable for everyday photography.\nThe large battery is useful for users who frequently travel.\nThe device provides a modern OriginOS software experience.\nIt is suitable for entertainment and casual gaming.\nOverall, the vivo T5x 5G combines a large battery, durable design, and strong everyday performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Battery life is excellent and the phone feels durable.",
+          "date": "2026-05-08T08:50:02.054Z",
+          "reviewerName": "Amelia Cooper",
+          "reviewerEmail": "amelia.cooper@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good performance and strong build quality.",
+          "date": "2026-05-22T13:40:02.054Z",
+          "reviewerName": "William Harris",
+          "reviewerEmail": "william.harris@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "vivo_9",
+      "productImg": "/mobile brands/vivo/vivo T5 Lite 5G.webp",
+      "productName": "vivo T5 Lite 5G",
+      "brand": "Vivo",
+      "price": 19999,
+      "availability": "In Stock",
+      "category": "Budget",
+      "description": "The vivo T5 Lite 5G is an affordable 5G smartphone designed for everyday users.\nIt features a large 6500mAh battery for dependable daily usage.\n44W FlashCharge provides convenient fast charging.\nThe device features triple anti-drop SGS certification.\nIts IP65 rating provides resistance against dust and water.\nThe phone includes AI Creation and AI Caption features.\nThe display is suitable for browsing and video streaming.\nThe device supports modern 5G connectivity.\nIt provides reliable performance for messaging and social media.\nThe camera system is suitable for casual everyday photography.\nThe phone is suitable for students and first-time smartphone buyers.\nIts large battery is useful for users who spend long hours away from a charger.\nThe device provides a comfortable entertainment experience.\nIt supports common productivity applications.\nThe phone is suitable for online classes and video calls.\nIts durable design helps protect against everyday accidents.\nThe device provides useful AI features for creative tasks.\nIt offers a practical combination of battery life and affordability.\nThe phone is suitable for communication, browsing, and entertainment.\nOverall, the vivo T5 Lite 5G is an affordable 5G smartphone focused on durability and battery life.",
+      "review": [
+        {
+          "rating": 4,
+          "comment": "Good battery life for a budget smartphone.",
+          "date": "2026-05-12T10:30:02.054Z",
+          "reviewerName": "Sophia Clark",
+          "reviewerEmail": "sophia.clark@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Good value with 5G connectivity.",
+          "date": "2026-05-25T14:20:02.054Z",
+          "reviewerName": "Liam Anderson",
+          "reviewerEmail": "liam.anderson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "vivo_10",
+      "productImg": "/mobile brands/vivo/vivo Y51 Pro 5G.webp",
+      "productName": "vivo Y51 Pro 5G",
+      "brand": "Vivo",
+      "price": 33999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The vivo Y51 Pro 5G is a modern smartphone designed for performance and long battery life.\nIt is powered by the MediaTek Dimensity 7360 Turbo processor.\nThe processor provides smooth performance for everyday applications and gaming.\nThe device features a large 7200mAh battery.\nIts large battery is designed for extended daily usage.\nThe phone includes a 50MP AI wide camera with 4K video recording.\nThe camera is suitable for everyday photography and video creation.\nAI imaging features help improve photographs.\nThe device provides smooth performance for multitasking.\nIt supports modern 5G connectivity.\nThe phone runs OriginOS with modern smart features.\nIts display provides a comfortable experience for entertainment and browsing.\nThe device is suitable for students and working professionals.\nThe large battery is useful for heavy users and frequent travelers.\nThe camera can capture portraits, landscapes, and social media content.\nThe phone supports high-quality video recording.\nIt provides reliable performance for communication and productivity.\nThe device has a modern and stylish appearance.\nIt offers a good balance between performance, camera capabilities, and battery life.\nOverall, the vivo Y51 Pro 5G is a versatile mid-range smartphone for everyday users.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent battery life and smooth performance.",
+          "date": "2026-05-06T09:45:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good camera and performance for the price.",
+          "date": "2026-05-20T15:10:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "The 7200mAh battery is perfect for heavy usage.",
+          "date": "2026-05-28T11:30:02.054Z",
+          "reviewerName": "Olivia Martin",
+          "reviewerEmail": "olivia.martin@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    }
+  ],
+  "oppo": [
+    {
+      "productId": "oppo_1",
+      "productImg": "/mobile brands/oppo/OPPO Find X9 Ultra.webp",
+      "productName": "OPPO Find X9 Ultra",
+      "brand": "OPPO",
+      "price": 139999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The OPPO Find X9 Ultra is a premium flagship smartphone designed for photography and professional content creation.\nIt features an advanced flagship-grade processor for demanding applications and gaming.\nThe device is built around a professional imaging experience.\nIts camera system is designed to capture highly detailed photographs.\nThe phone provides advanced telephoto capabilities for distant subjects.\nIts camera system is suitable for portraits, landscapes, travel photography, and professional content.\nThe device supports advanced AI-powered photography features.\nIt provides high-quality video recording for creators.\nThe large display provides an immersive experience for movies, games, and photo editing.\nThe phone provides smooth performance while multitasking between demanding applications.\nIts premium construction gives it a sophisticated flagship appearance.\nThe device supports modern 5G connectivity.\nIt is suitable for photographers, videographers, gamers, and professionals.\nThe camera system provides flexibility across different focal lengths.\nAI imaging tools help users improve photographs and creative content.\nThe phone provides a premium software experience through ColorOS.\nIts powerful hardware is designed for long-term everyday performance.\nThe device is suitable for professional and personal use.\nIts combination of flagship performance and advanced imaging makes it a high-end smartphone.\nOverall, the OPPO Find X9 Ultra is designed for users who prioritize camera capabilities and flagship performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The camera system is outstanding.",
+          "date": "2026-05-08T09:41:02.054Z",
+          "reviewerName": "Jace Smith",
+          "reviewerEmail": "jace.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent flagship for photography and video.",
+          "date": "2026-05-18T11:20:12.054Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Premium performance with impressive cameras.",
+          "date": "2026-05-27T14:10:02.054Z",
+          "reviewerName": "Logan Torres",
+          "reviewerEmail": "logan.torres@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oppo_2",
+      "productImg": "/mobile brands/oppo/OPPO Find X9s.webp",
+      "productName": "OPPO Find X9s",
+      "brand": "OPPO",
+      "price": 79999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The OPPO Find X9s is a premium flagship smartphone designed for photography and everyday performance.\nIt is positioned as part of OPPO's latest Find X9 flagship family.\nThe device provides powerful performance for demanding applications.\nIts camera system is designed for high-quality photography.\nThe phone provides advanced telephoto capabilities for portrait and zoom photography.\nIt is suitable for travel photography and content creation.\nThe device includes AI-powered imaging features.\nIts display provides an immersive experience for movies and gaming.\nThe phone provides smooth multitasking performance.\nIt supports modern 5G connectivity.\nThe device features a premium and modern design.\nColorOS provides a smooth and smart software experience.\nThe camera system is suitable for portraits, landscapes, and everyday photography.\nIt supports high-quality video recording.\nThe phone is suitable for social media creators.\nIts powerful hardware provides reliable performance for productivity.\nThe device provides modern connectivity and communication features.\nIt is suitable for gaming and entertainment.\nThe phone provides a balanced flagship experience.\nOverall, the OPPO Find X9s combines premium design, performance, AI, and advanced imaging.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Beautiful design and excellent camera.",
+          "date": "2026-05-10T10:15:02.054Z",
+          "reviewerName": "Daniel Brown",
+          "reviewerEmail": "daniel.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very smooth flagship experience.",
+          "date": "2026-05-20T12:30:02.054Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "oppo_3",
+      "productImg": "/mobile brands/oppo/OPPO Find X9 Pro.png",
+      "productName": "OPPO Find X9 Pro",
+      "brand": "OPPO",
+      "price": 109999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The OPPO Find X9 Pro is a premium flagship smartphone focused on photography and performance.\nIt provides powerful hardware for demanding applications and multitasking.\nThe device features an advanced Hasselblad co-engineered camera system.\nIts camera system is designed for detailed portraits and travel photography.\nThe telephoto camera provides additional flexibility for zoom photography.\nThe phone is suitable for professional-style photography.\nIt supports high-quality video recording for content creators.\nThe display provides smooth and detailed visuals.\nThe device is suitable for movies, gaming, and productivity.\nIts premium design provides a sophisticated appearance.\nThe phone supports modern 5G connectivity.\nColorOS provides a smooth and intelligent software experience.\nAI photography tools help improve captured images.\nThe device provides strong performance during multitasking.\nIt is suitable for photographers and social media creators.\nThe phone provides reliable battery performance for everyday use.\nIts camera system works well in different lighting environments.\nThe device supports modern connectivity features.\nIt is suitable for professional and personal usage.\nOverall, the OPPO Find X9 Pro provides a premium combination of imaging, performance, and design.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent camera and premium build quality.",
+          "date": "2026-05-07T09:30:02.054Z",
+          "reviewerName": "Noah Taylor",
+          "reviewerEmail": "noah.taylor@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fantastic phone for photography.",
+          "date": "2026-05-17T15:20:02.054Z",
+          "reviewerName": "Olivia Martin",
+          "reviewerEmail": "olivia.martin@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great flagship with excellent performance.",
+          "date": "2026-05-24T13:15:02.054Z",
+          "reviewerName": "Mason Lee",
+          "reviewerEmail": "mason.lee@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oppo_4",
+      "productImg": "/mobile brands/oppo/OPPO Find X9.webp",
+      "productName": "OPPO Find X9",
+      "brand": "OPPO",
+      "price": 74999,
+      "availability": "In Stock",
+      "category": "Flagship",
+      "description": "The OPPO Find X9 is a premium flagship smartphone designed for performance and photography.\nIt features the MediaTek Dimensity 9500 flagship processor.\nThe processor provides powerful performance for demanding applications and gaming.\nThe device features a 120Hz ProXDR display for smooth visuals.\nIts display provides high brightness for comfortable outdoor viewing.\nThe phone includes a Hasselblad Master Camera System.\nIts 50MP main camera uses a large sensor and optical image stabilization.\nThe 50MP periscope telephoto camera provides detailed zoom photography.\nThe ultra-wide camera is useful for landscapes and group photographs.\nThe device supports 4K 120fps Dolby Vision video recording.\nIts 7025mAh battery provides extended everyday usage.\n80W SUPERVOOC provides fast wired charging.\n50W AIRVOOC provides wireless charging support.\nThe phone features IP66, IP68, and IP69 protection.\nColorOS 16 provides a smart and smooth software experience.\nThe device includes useful AI productivity tools.\nIt is suitable for gaming, photography, streaming, and professional work.\nThe phone provides modern 5G connectivity.\nOverall, the OPPO Find X9 combines flagship performance, advanced imaging, a large battery, and premium software.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent battery and camera performance.",
+          "date": "2026-05-06T10:20:02.054Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "The display and camera are fantastic.",
+          "date": "2026-05-18T14:40:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "oppo_5",
+      "productImg": "/mobile brands/oppo/OPPO Reno15 Pro 5G.webp",
+      "productName": "OPPO Reno15 Pro 5G",
+      "brand": "OPPO",
+      "price": 59999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The OPPO Reno15 Pro 5G is a premium smartphone designed especially for portrait and travel photography.\nIt features a 200MP Ultra-Clear Main Camera.\nThe high-resolution camera is designed to capture detailed travel photographs.\nThe device includes advanced AI portrait photography features.\nIts camera system is suitable for portraits, landscapes, and social media content.\nThe phone features a premium and stylish design.\nIts display provides smooth visuals for entertainment and photography editing.\nThe device provides strong performance for everyday applications.\nIt supports modern 5G connectivity.\nThe phone includes AI-powered imaging tools.\nIts camera system is suitable for content creators and travel enthusiasts.\nThe device provides smooth multitasking performance.\nColorOS provides a smart and responsive software experience.\nThe phone is suitable for gaming and entertainment.\nIts premium construction provides a comfortable and sophisticated appearance.\nThe device supports high-quality video recording.\nIt provides reliable battery performance for daily activities.\nThe phone is suitable for students, professionals, and creators.\nIt provides useful AI productivity features.\nOverall, the Reno15 Pro 5G combines advanced photography, stylish design, AI, and strong everyday performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The 200MP camera is excellent for travel photography.",
+          "date": "2026-05-09T10:20:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Beautiful phone with amazing portrait photography.",
+          "date": "2026-05-21T14:40:02.054Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great premium phone for creators.",
+          "date": "2026-05-28T12:10:02.054Z",
+          "reviewerName": "Ella Thompson",
+          "reviewerEmail": "ella.thompson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oppo_6",
+      "productImg": "/mobile brands/oppo/OPPO Reno15 Pro Mini 5G.webp",
+      "productName": "OPPO Reno15 Pro Mini 5G",
+      "brand": "OPPO",
+      "price": 54999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The OPPO Reno15 Pro Mini 5G is a compact premium smartphone designed for photography enthusiasts.\nIt combines a smaller form factor with advanced camera capabilities.\nThe device features a 200MP Ultra-Clear Main Camera.\nThe high-resolution camera is suitable for detailed travel photography.\nIts camera system provides useful portrait photography features.\nThe phone is designed for users who prefer compact smartphones.\nIts display provides smooth and vivid visuals.\nThe device provides strong performance for everyday applications.\nIt supports modern 5G connectivity.\nThe phone is suitable for social media and content creation.\nAI imaging tools help users improve photographs.\nThe compact design makes the phone comfortable to carry.\nThe device provides smooth multitasking performance.\nColorOS provides a modern and responsive software experience.\nIt is suitable for gaming and entertainment.\nThe phone provides useful AI productivity features.\nIts camera system supports high-quality video recording.\nThe device provides reliable battery performance.\nOverall, the Reno15 Pro Mini 5G combines compact design, advanced photography, and premium performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Perfect compact phone with an excellent camera.",
+          "date": "2026-05-11T09:10:02.054Z",
+          "reviewerName": "Benjamin Scott",
+          "reviewerEmail": "benjamin.scott@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very comfortable to hold and use.",
+          "date": "2026-05-23T13:30:02.054Z",
+          "reviewerName": "Grace Adams",
+          "reviewerEmail": "grace.adams@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oppo_7",
+      "productImg": "/mobile brands/oppo/OPPO Reno15 5G.webp",
+      "productName": "OPPO Reno15 5G",
+      "brand": "OPPO",
+      "price": 39999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The OPPO Reno15 5G is a stylish smartphone designed around portrait photography and everyday performance.\nIt features a 50MP main camera with optical image stabilization.\nThe device also includes a 50MP telephoto camera for portrait photography.\nIts ultra-wide camera is suitable for landscapes and group photographs.\nThe phone includes a 50MP front camera for high-quality selfies.\nIt supports 4K video recording from the front and rear cameras.\nThe device features a 120Hz OLED display.\nThe display supports HDR10+ for improved video quality.\nIts aerospace-grade aluminium frame provides a premium feel.\nThe phone provides IP69 water and dust resistance.\nIts 6500mAh battery provides extended daily usage.\n80W SUPERVOOC provides fast charging performance.\nThe device supports AI Travel Portrait photography.\nIt provides smooth performance for gaming and multitasking.\nAI LinkBoost features help improve connectivity in challenging network environments.\nThe phone is suitable for travel enthusiasts and content creators.\nColorOS 16 provides a smooth and smart software experience.\nThe device supports modern 5G connectivity.\nOverall, the Reno15 5G combines portrait photography, durability, battery life, and stylish design.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent portrait camera and beautiful design.",
+          "date": "2026-05-08T10:30:02.054Z",
+          "reviewerName": "Chloe Baker",
+          "reviewerEmail": "chloe.baker@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great battery and fast charging.",
+          "date": "2026-05-20T15:10:02.054Z",
+          "reviewerName": "Henry Evans",
+          "reviewerEmail": "henry.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very good phone for travel photography.",
+          "date": "2026-05-27T11:45:02.054Z",
+          "reviewerName": "Amelia Cooper",
+          "reviewerEmail": "amelia.cooper@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oppo_8",
+      "productImg": "/mobile brands/oppo/OPPO K13 5G.png",
+      "productName": "OPPO K13 5G",
+      "brand": "OPPO",
+      "price": 19999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The OPPO K13 5G is a performance-focused smartphone designed for gaming and everyday usage.\nIt is powered by the Snapdragon 6 Gen 4 mobile platform.\nThe processor provides smooth performance with efficient power consumption.\nThe device features a 120Hz OLED flat display.\nThe display provides smooth visuals for gaming and entertainment.\nIt includes a large 7000mAh battery designed for extended daily use.\n80W SUPERVOOC Flash Charge provides fast charging.\nThe device features an ultra-large enhanced VC cooling system.\nThe cooling system helps manage heat during demanding gaming sessions.\nIts 50MP AI camera is suitable for everyday photography.\nAI camera features help improve photographs and portraits.\nThe phone is designed to provide long-term battery durability.\nIt supports modern 5G connectivity.\nThe display is suitable for watching movies and playing games.\nThe device provides reliable performance for multitasking.\nIt is suitable for students and gamers.\nColorOS provides a clean and responsive software experience.\nThe large battery makes it suitable for heavy users.\nOverall, the OPPO K13 5G provides a strong combination of battery life, performance, display, and fast charging.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The battery lasts a very long time.",
+          "date": "2026-05-12T08:40:02.054Z",
+          "reviewerName": "Jack Turner",
+          "reviewerEmail": "jack.turner@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good gaming performance and fast charging.",
+          "date": "2026-05-25T14:20:02.054Z",
+          "reviewerName": "Sophia Clark",
+          "reviewerEmail": "sophia.clark@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oppo_9",
+      "productImg": "/mobile brands/oppo/OPPO Reno14 Pro 5G.webp",
+      "productName": "OPPO Reno14 Pro 5G",
+      "brand": "OPPO",
+      "price": 49999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The OPPO Reno14 Pro 5G is a premium smartphone designed for photography and everyday entertainment.\nIt provides a capable camera system for portraits and travel photography.\nThe device includes AI-powered imaging features.\nIts display provides smooth and vivid visuals.\nThe phone is suitable for watching movies and playing games.\nIt provides reliable performance for everyday applications.\nThe device supports modern 5G connectivity.\nIts premium design provides a stylish appearance.\nThe camera system is suitable for social media content.\nIt provides useful video recording features.\nThe device supports fast charging for convenient power management.\nIts battery is designed to support regular daily usage.\nThe phone is suitable for students, professionals, and creators.\nAI features provide useful photography and productivity tools.\nThe device provides smooth multitasking performance.\nColorOS provides a modern software experience.\nThe phone supports modern wireless connectivity.\nIts display provides comfortable viewing for entertainment.\nIt offers a balanced combination of camera features and performance.\nOverall, the Reno14 Pro 5G is a versatile premium smartphone for everyday users.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Great camera and stylish design.",
+          "date": "2026-05-07T11:20:02.054Z",
+          "reviewerName": "Liam Anderson",
+          "reviewerEmail": "liam.anderson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Smooth performance and excellent display.",
+          "date": "2026-05-19T13:40:02.054Z",
+          "reviewerName": "Olivia Martin",
+          "reviewerEmail": "olivia.martin@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "oppo_10",
+      "productImg": "/mobile brands/oppo/OPPO A6 Pro 5G.png",
+      "productName": "OPPO A6 Pro 5G",
+      "brand": "OPPO",
+      "price": 24999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The OPPO A6 Pro 5G is a practical smartphone designed for everyday users.\nIt provides reliable performance for communication and entertainment.\nThe device supports modern 5G connectivity.\nIts display provides smooth visuals for browsing and video streaming.\nThe phone is suitable for social media and messaging applications.\nIts camera system is designed for everyday photography.\nIt can capture portraits, landscapes, and casual photographs.\nThe device provides useful AI photography features.\nIts battery is designed to support regular daily activities.\nFast charging provides convenient power management.\nThe phone features a modern and comfortable design.\nIt is suitable for students and working professionals.\nThe device provides smooth performance for multitasking.\nIt supports common productivity applications.\nThe display is suitable for watching movies and browsing websites.\nThe phone provides reliable connectivity for online communication.\nColorOS provides a clean and user-friendly software experience.\nIt is suitable for casual gaming and entertainment.\nThe device offers a balanced combination of affordability and useful features.\nOverall, the OPPO A6 Pro 5G is designed as a dependable everyday smartphone.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Good everyday phone with smooth performance.",
+          "date": "2026-05-13T10:15:02.054Z",
+          "reviewerName": "Mason Lee",
+          "reviewerEmail": "mason.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good battery and comfortable display.",
+          "date": "2026-05-26T15:20:02.054Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    }
+  ],
+  "motorola": [
+    {
+      "productId": "motorola_1",
+      "productImg": "/mobile brands/motorola/motorola edge 70.png",
+      "productName": "motorola edge 70",
+      "brand": "Motorola",
+      "price": 32999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The motorola edge 70 is a premium smartphone designed for users who want a stylish and powerful device.\nIt combines a slim modern design with strong everyday performance.\nThe device provides a premium display experience for entertainment and productivity.\nIts display is suitable for watching movies, browsing, and gaming.\nThe phone includes advanced camera capabilities for everyday photography.\nIts camera system is designed for portraits, landscapes, and social media content.\nThe device uses Sony LYTIA imaging technology for photography.\nAI-powered camera features help users improve their photographs.\nThe phone provides smooth performance during everyday multitasking.\nIt supports modern 5G connectivity for fast mobile communication.\nThe device includes moto ai features for productivity and creativity.\nIts premium construction gives the smartphone a sophisticated appearance.\nThe phone is suitable for students, professionals, and content creators.\nIt provides reliable performance for social media and communication applications.\nThe device is suitable for casual and demanding mobile games.\nIts display provides an immersive experience for video streaming.\nThe phone supports modern wireless connectivity features.\nIts software provides a clean Android experience with Motorola features.\nThe device provides a good balance between design, camera, and performance.\nOverall, the motorola edge 70 is a premium smartphone focused on design, photography, and everyday performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Beautiful design and excellent overall performance.",
+          "date": "2026-05-08T09:41:02.054Z",
+          "reviewerName": "Jace Smith",
+          "reviewerEmail": "jace.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "The camera quality and display are excellent.",
+          "date": "2026-05-18T11:20:12.054Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    },
+    {
+      "productId": "motorola_2",
+      "productImg": "/mobile brands/motorola/motorola edge 60 pro.png",
+      "productName": "motorola edge 60 pro",
+      "brand": "Motorola",
+      "price": 31999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The motorola edge 60 pro is a premium smartphone designed for photography and performance.\nIt provides powerful performance for everyday applications and multitasking.\nThe device features a premium curved display for an immersive viewing experience.\nIts display is suitable for gaming, movies, and productivity.\nThe phone features a professional-level camera system.\nIts camera is designed to capture detailed photographs in different lighting conditions.\nAI-powered imaging features help users improve their photographs.\nThe device is suitable for portraits, landscapes, and travel photography.\nIt provides useful video recording capabilities for content creators.\nThe phone supports modern 5G connectivity.\nMoto ai provides useful smart features for everyday activities.\nThe device features a stylish and comfortable design.\nIt provides smooth performance for social media and communication.\nThe phone is suitable for gaming and entertainment.\nIts battery is designed to provide dependable everyday usage.\nFast charging provides convenient power management.\nThe device provides a clean Android software experience.\nIt is suitable for students, professionals, and creators.\nThe phone provides a balanced combination of camera, display, and performance.\nOverall, the motorola edge 60 pro is a versatile premium smartphone for demanding users.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Excellent camera and premium curved display.",
+          "date": "2026-05-10T10:15:02.054Z",
+          "reviewerName": "Daniel Brown",
+          "reviewerEmail": "daniel.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great phone with smooth performance.",
+          "date": "2026-05-20T12:30:02.054Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very good choice for photography lovers.",
+          "date": "2026-05-27T14:10:02.054Z",
+          "reviewerName": "Logan Torres",
+          "reviewerEmail": "logan.torres@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "motorola_3",
+      "productImg": "/mobile brands/motorola/motorola edge 60 fusion.png",
+      "productName": "motorola edge 60 fusion",
+      "brand": "Motorola",
+      "price": 19999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The motorola edge 60 fusion is a stylish smartphone designed for everyday users.\nIt provides a balanced combination of design, performance, and camera features.\nThe device features a curved display for an immersive viewing experience.\nIts display is suitable for movies, gaming, and social media.\nThe phone features Sony LYTIA imaging technology for photography.\nIts camera system is suitable for portraits and everyday photography.\nThe device provides useful AI-powered photography features.\nIt is suitable for users who enjoy creating social media content.\nThe phone provides smooth performance for common applications.\nIt supports modern 5G connectivity.\nThe device features a sleek and comfortable design.\nIts battery is designed for regular daily usage.\nFast charging provides convenient charging performance.\nThe phone is suitable for students and working professionals.\nIt provides reliable performance for communication and productivity.\nThe display provides smooth visuals for entertainment.\nMoto ai provides useful smart features.\nThe device supports modern wireless connectivity.\nIt offers a good balance between premium design and affordability.\nOverall, the motorola edge 60 fusion is a stylish mid-range smartphone for everyday use.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Beautiful curved display and stylish design.",
+          "date": "2026-05-06T09:30:02.054Z",
+          "reviewerName": "Noah Taylor",
+          "reviewerEmail": "noah.taylor@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good camera and smooth everyday performance.",
+          "date": "2026-05-17T15:20:02.054Z",
+          "reviewerName": "Olivia Martin",
+          "reviewerEmail": "olivia.martin@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "motorola_4",
+      "productImg": "/mobile brands/motorola/motorola razr 60 ultra.png",
+      "productName": "motorola razr 60 ultra",
+      "brand": "Motorola",
+      "price": 79999,
+      "availability": "In Stock",
+      "category": "Foldable",
+      "description": "The motorola razr 60 ultra is a premium foldable smartphone designed for users who want a unique mobile experience.\nIts foldable design allows the phone to become compact when closed.\nThe device provides a large display when it is opened.\nIts foldable display is suitable for entertainment and productivity.\nThe external display provides convenient access to selected applications and information.\nThe phone features a premium and stylish design.\nIts camera system is designed for high-quality photography.\nThe device is suitable for portraits, selfies, and social media content.\nIts foldable form factor provides flexible ways to capture photographs.\nThe phone provides powerful performance for demanding applications.\nIt supports modern 5G connectivity.\nMoto ai provides useful AI-powered productivity and creative features.\nThe device is suitable for gaming and video streaming.\nIts premium construction provides a sophisticated appearance.\nThe phone provides smooth multitasking performance.\nIt is suitable for professionals and content creators.\nThe device provides a modern Android software experience.\nIts compact folded form makes it easy to carry.\nOverall, the motorola razr 60 ultra combines foldable design, premium performance, and advanced camera capabilities.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The foldable design looks amazing.",
+          "date": "2026-05-09T10:20:02.054Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Premium design with an excellent display.",
+          "date": "2026-05-21T14:40:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very stylish but expensive.",
+          "date": "2026-05-28T12:10:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "motorola_5",
+      "productImg": "/mobile brands/motorola/motorola razr 60.png",
+      "productName": "motorola razr 60",
+      "brand": "Motorola",
+      "price": 59999,
+      "availability": "In Stock",
+      "category": "Foldable",
+      "description": "The motorola razr 60 is a stylish foldable smartphone designed for users who prefer compact devices.\nIts foldable design allows the phone to become smaller when closed.\nThe device provides a large internal display when opened.\nIts external display provides convenient access to useful information.\nThe phone is suitable for social media and communication.\nIts camera system is designed for portraits and everyday photography.\nThe device provides useful AI-powered camera features.\nIts foldable design provides flexible options for selfies and photography.\nThe phone provides smooth performance for everyday applications.\nIt supports modern 5G connectivity.\nThe device features a premium modern design.\nMoto ai provides useful productivity and creative tools.\nIt is suitable for streaming movies and playing games.\nThe phone provides smooth multitasking performance.\nIts compact design makes it convenient for travel.\nThe device provides a clean Android software experience.\nIt is suitable for students, professionals, and content creators.\nThe camera is useful for social media photography.\nThe foldable form factor makes the phone visually distinctive.\nOverall, the motorola razr 60 provides a stylish and practical foldable smartphone experience.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Love the compact foldable design.",
+          "date": "2026-05-07T09:15:02.054Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Stylish phone with a useful outer display.",
+          "date": "2026-05-19T13:30:02.054Z",
+          "reviewerName": "Ella Thompson",
+          "reviewerEmail": "ella.thompson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "motorola_6",
+      "productImg": "/mobile brands/motorola/moto g86 power 5G.png",
+      "productName": "moto g86 power 5G",
+      "brand": "Motorola",
+      "price": 16999,
+      "availability": "In Stock",
+      "category": "Budget",
+      "description": "The moto g86 power 5G is a battery-focused smartphone designed for extended everyday usage.\nIt is designed to provide dependable performance throughout the day.\nThe device features a large-capacity battery for heavy users.\nIts battery is suitable for gaming, streaming, browsing, and communication.\nThe phone supports 5G connectivity for fast mobile communication.\nIts display provides a smooth experience for movies and social media.\nThe device is suitable for casual and demanding mobile games.\nIts camera system provides useful features for everyday photography.\nThe phone is suitable for portraits and outdoor photographs.\nMoto ai provides useful smart and productivity features.\nThe device provides smooth performance for multitasking.\nIt is suitable for students and working professionals.\nThe phone features a modern and durable design.\nIts large battery makes it useful for frequent travelers.\nThe device provides reliable performance for communication applications.\nThe display is suitable for video streaming.\nIt supports modern wireless connectivity.\nThe phone provides a clean Android software experience.\nOverall, the moto g86 power 5G is designed for users who prioritize battery life and everyday performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The battery life is excellent.",
+          "date": "2026-05-05T10:30:02.054Z",
+          "reviewerName": "Benjamin Scott",
+          "reviewerEmail": "benjamin.scott@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good phone for everyday use.",
+          "date": "2026-05-18T14:20:02.054Z",
+          "reviewerName": "Grace Adams",
+          "reviewerEmail": "grace.adams@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "motorola_7",
+      "productImg": "/mobile brands/motorola/moto g57 power 5G.png",
+      "productName": "moto g57 power 5G",
+      "brand": "Motorola",
+      "price": 14999,
+      "availability": "In Stock",
+      "category": "Budget",
+      "description": "The moto g57 power 5G is an affordable smartphone designed around battery life and everyday performance.\nIt provides reliable performance for common smartphone applications.\nThe device supports modern 5G connectivity.\nIts large battery is designed to provide extended daily usage.\nThe phone is suitable for users who spend long hours away from a charger.\nIts display provides a comfortable experience for browsing and streaming.\nThe camera system is suitable for everyday photographs.\nIt can capture portraits, landscapes, and social media content.\nThe device provides useful AI camera features.\nIt is suitable for students and first-time smartphone buyers.\nThe phone supports messaging and communication applications.\nIt provides reliable performance for online classes and video calls.\nThe device is suitable for casual gaming.\nIts modern design provides a comfortable user experience.\nThe phone provides useful wireless connectivity features.\nThe software provides a clean Android experience.\nIts battery is useful for travel and heavy daily usage.\nThe device offers a practical combination of affordability and performance.\nIt is suitable for entertainment and social media.\nOverall, the moto g57 power 5G is a budget-friendly smartphone focused on battery life and connectivity.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Very good battery life for the price.",
+          "date": "2026-05-11T08:40:02.054Z",
+          "reviewerName": "Chloe Baker",
+          "reviewerEmail": "chloe.baker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good budget phone with 5G.",
+          "date": "2026-05-23T13:20:02.054Z",
+          "reviewerName": "Henry Evans",
+          "reviewerEmail": "henry.evans@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "motorola_8",
+      "productImg": "/mobile brands/motorola/moto g96 5G.png",
+      "productName": "moto g96 5G",
+      "brand": "Motorola",
+      "price": 19999,
+      "availability": "In Stock",
+      "category": "Mid Range",
+      "description": "The moto g96 5G is a stylish mid-range smartphone designed for everyday entertainment.\nIt provides smooth performance for common applications and multitasking.\nThe device supports 5G connectivity for fast mobile communication.\nIts display is suitable for movies, gaming, and browsing.\nThe phone features a modern curved design.\nIts camera system is designed for detailed everyday photography.\nThe device is suitable for portraits, landscapes, and social media content.\nAI-powered camera features help improve photographs.\nThe phone provides smooth performance for communication applications.\nIt is suitable for students and professionals.\nThe device provides reliable battery performance for regular daily use.\nFast charging provides convenient power management.\nIts display provides an immersive experience for video streaming.\nThe phone is suitable for casual gaming.\nMoto ai provides useful smart features.\nThe device provides modern wireless connectivity.\nIts Android software experience is clean and user-friendly.\nThe phone offers a good balance of design and performance.\nIt is suitable for users looking for a stylish affordable 5G phone.\nOverall, the moto g96 5G provides a balanced combination of display, camera, connectivity, and everyday performance.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Beautiful design and smooth display.",
+          "date": "2026-05-08T11:10:02.054Z",
+          "reviewerName": "William Harris",
+          "reviewerEmail": "william.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good camera and performance for the price.",
+          "date": "2026-05-22T15:40:02.054Z",
+          "reviewerName": "Amelia Cooper",
+          "reviewerEmail": "amelia.cooper@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "motorola_9",
+      "productImg": "/mobile brands/motorola/moto g67 power.png",
+      "productName": "moto g67 power",
+      "brand": "Motorola",
+      "price": 15999,
+      "availability": "In Stock",
+      "category": "Budget",
+      "description": "The moto g67 power is an affordable smartphone designed for users who need dependable everyday performance.\nIt provides reliable performance for communication and entertainment.\nThe device is suitable for social media and messaging applications.\nIts battery is designed for extended daily usage.\nThe phone is suitable for users who frequently use their phone throughout the day.\nIt provides a comfortable display experience for browsing and video streaming.\nThe camera system is suitable for casual photography.\nIt can capture portraits, outdoor photographs, and social media content.\nThe device supports modern connectivity features.\nIt provides smooth performance for common applications.\nThe phone is suitable for students and working professionals.\nIts durable design makes it suitable for everyday use.\nThe device supports casual gaming and entertainment.\nMoto ai provides useful smart features.\nThe phone provides reliable performance for video calls.\nIts software provides a clean Android experience.\nThe device is suitable for online learning and browsing.\nIt offers a practical combination of battery life and affordability.\nThe phone is easy to use for everyday communication.\nOverall, the moto g67 power is designed as a dependable budget smartphone for daily users.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "Good battery life and reliable performance.",
+          "date": "2026-05-09T10:25:02.054Z",
+          "reviewerName": "Sophia Clark",
+          "reviewerEmail": "sophia.clark@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for everyday use.",
+          "date": "2026-05-24T14:15:02.054Z",
+          "reviewerName": "Liam Anderson",
+          "reviewerEmail": "liam.anderson@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "productId": "motorola_10",
+      "productImg": "/mobile brands/motorola/motorola edge 60 stylus.png",
+      "productName": "motorola edge 60 stylus",
+      "brand": "Motorola",
+      "price": 27999,
+      "availability": "In Stock",
+      "category": "Premium",
+      "description": "The motorola edge 60 stylus is a productivity-focused smartphone designed for creative users.\nIt includes stylus functionality for writing, drawing, and editing content.\nThe stylus makes the device useful for students and professionals.\nIt provides a convenient way to take handwritten notes.\nThe phone features a premium display for entertainment and productivity.\nThe display is suitable for watching videos and editing creative content.\nIts camera system is designed for everyday photography.\nThe device is suitable for portraits and social media photography.\nThe phone provides smooth performance for multitasking.\nIt supports modern 5G connectivity.\nThe stylus can be useful for sketching and digital artwork.\nThe device provides useful AI-powered productivity features.\nIts modern design gives it a premium appearance.\nThe phone is suitable for content creators and creative professionals.\nIt provides reliable battery performance for everyday usage.\nThe device supports modern wireless connectivity.\nIts software provides a clean Android experience with Motorola features.\nThe display is suitable for gaming and entertainment.\nIt provides a useful combination of productivity and smartphone features.\nOverall, the motorola edge 60 stylus is a versatile smartphone for users who value creativity and productivity.",
+      "review": [
+        {
+          "rating": 5,
+          "comment": "The stylus is very useful for taking notes.",
+          "date": "2026-05-12T09:30:02.054Z",
+          "reviewerName": "Mia Robinson",
+          "reviewerEmail": "mia.robinson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great phone for creative work and productivity.",
+          "date": "2026-05-26T13:45:02.054Z",
+          "reviewerName": "Ethan Walker",
+          "reviewerEmail": "ethan.walker@x.dummyjson.com"
+        }
+      ],
+      "isLike": false,
+      "quantity": 1,
+      "rating": 5
+    }
+  ]
+}
