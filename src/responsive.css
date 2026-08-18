@@ -519,7 +519,7 @@ body {
     justify-content: flex-start;
     align-items: center;
     background-position: center;
-    background-image: url("src/assets/home mobile banner.png");
+    background-image: url("/banner/home mobile banner.png");
   }
 
   .home-banner-text{
