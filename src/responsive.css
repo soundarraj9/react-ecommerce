@@ -1421,15 +1421,18 @@ img {
     height: 230px;
   }
   .apple-img{
-    width: 140px;
+    width: 160px;
+    padding: 10px 0;
   }
 
   .redmi-img{
-    width: 150px;
+    width: 170px;
+    padding: 10px 0;
   }
 
   .vivo-img{
-     width: 150px;
+     width: 170px;
+     padding: 10px 0;
   }
 
   .product-title{
@@ -1466,6 +1469,41 @@ img {
     .add-to-cart {
         max-width: 100%;
     }
+}
+
+@media (max-width: 480px){
+  .prodcut-card {
+    padding: 20px;
+    height: 550px;
+  }
+
+  .prodcut-img{
+    width: 300px;
+    height: 300px;
+  }
+
+  .apple-img{
+    width: 220px;
+    padding: 10px 0;
+  }
+
+  .redmi-img{
+    width: 230px;
+    padding: 10px 0;
+  }
+
+  .vivo-img{
+     width: 230px;
+     padding: 10px 0;
+  }
+
+  .product-title{
+    font-size: 18px;
+  }
+
+  .product-price{
+    font-size: 18px;
+  }
 }
 
 
