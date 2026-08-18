@@ -22,12 +22,12 @@ export default function NavBar() {
   return (
     <div className='nav-container'>
 
-      <div className='nav-log'>
+      <Link to="/" className='nav-log'>
         <i className="fa-solid fa-mobile nav-main-logo"></i>
         <h1 className='nav-head'>
           Mobile<span className='nav-head-main'>Hub</span>
         </h1>
-      </div>
+      </Link>
 
       <button className="menu-btn"
         onClick={() => setIsMenuOpen(!isMenuOpen)}>

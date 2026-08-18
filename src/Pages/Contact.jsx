@@ -1,8 +1,41 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Footer from '../Components/Footer'
 import "./Pages.css"
 
 export default function Contact() {
+
+  const [formData, setFormData] = useState({
+      name: "",
+      email: "",
+      description: ""
+  });
+
+  const [contactArray, setContactArray] = useState([]);
+
+  const handleChange = (e) => {
+    const { id, value } = e.target;
+
+        setFormData((prev) => ({
+            ...prev,
+            [id]: value
+        }));
+    };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+
+        setContactArray((prev) => [
+            ...prev,
+            formData
+        ]);
+
+        setFormData({
+            name: "",
+            email: "",
+            description: ""
+        });
+    };
+
   return (
     <>
       <div className='main-contact-container'>
@@ -13,34 +46,49 @@ export default function Contact() {
 
             <form className="contact-form">
 
-              <div className="contact-input-group">
+              <div className="contact-input-group" onSubmit={handleSubmit}>
                   <label htmlFor="name">Name</label>
+
                   <input
                       type="text"
                       id="name"
                       placeholder="Enter your name"
+                      value={formData.name}
+                      onChange={handleChange}
                   />
               </div>
 
+
               <div className="contact-input-group">
                   <label htmlFor="email">Email</label>
+
                   <input
                       type="email"
                       id="email"
                       placeholder="Enter your email"
+                      value={formData.email}
+                      onChange={handleChange}
                   />
               </div>
 
+
               <div className="contact-input-group">
                   <label htmlFor="description">Description</label>
+
                   <textarea
                       id="description"
                       rows="4"
                       placeholder="Enter your message"
+                      value={formData.description}
+                      onChange={handleChange}
                   ></textarea>
               </div>
 
-              <button type="submit" className="contact-submit-btn">
+
+              <button
+                  type="submit"
+                  className="contact-submit-btn"
+              >
                   <i className="fa-solid fa-paper-plane"></i>
                   Submit
               </button>

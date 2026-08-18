@@ -27,6 +27,7 @@
     display: flex;
     align-items: center;
     gap: 5px;
+    text-decoration: none;
 }
 
 .nav-main-logo{
@@ -157,6 +158,7 @@ svg{
 
 .product-content-container{
     width: 100%;
+    height: 100%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -176,7 +178,7 @@ svg{
 
 .prodcut-img{
     width: 100%;
-    height: 258.4px;
+    height: 258px;
 }
 
 .product-details{
